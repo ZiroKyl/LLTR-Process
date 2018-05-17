@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Output/border-delimiter" itemID="5ab8eb5f-00000127" symbolType="graphic" lastModified="1522068319">
+  <timeline>
+    <DOMTimeline name="border-delimiter">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-74.5" ty="-1242"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1490 24840|1490 25059"/>
+                    <Edge cubics="!1490 24840(;1490,24840 1490,25059 1490,25059q1490 24840 1490 25059);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-74.5" ty="-1242"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!4730 24840|4730 25059"/>
+                    <Edge cubics="!4730 24840(;4730,24840 4730,25059 4730,25059q4730 24840 4730 25059);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

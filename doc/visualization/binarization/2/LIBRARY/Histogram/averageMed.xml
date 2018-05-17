@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Histogram/averageMed" itemID="5ab8e468-000000e1" symbolType="graphic" lastModified="1522066536">
+  <timeline>
+    <DOMTimeline name="averageMed">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="customThicknessSharpness" left="34.15" width="75.7" height="12.45" autoExpand="true" antiAliasSharpness="-95" antiAliasThickness="-80" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-32.15" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>averageMed</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" bold="true" rotation="true" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

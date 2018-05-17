@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="+/divide/- border" itemID="5ab8ee93-00000131" symbolType="graphic" lastModified="1522069139">
+  <timeline>
+    <DOMTimeline name="- border">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" name="пришлось сдвинуть, чтобы при 100% масштабе был pixel perfect" labelType="comment" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="164.2" ty="257.3"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-3284 -5147/-3087 -5147!-3087 -5147[-3054 -5147 -3030 -5124!-3030 -5124[-3007 -5101 -3007 -5067!-3007 -4866[-3007 -4833 -3030 -4809!-3030 -4809[-3054 -4786 -3087 -4786!-3087 -4786/-3284 -4786"/>
+                    <Edge cubics="!-3087 -5147(;-3043,-5147 -3007,-5112 -3007,-5067q-3087 -5147Q-3054 -5147q-3030 -5124Q-3007 -5101q-3007 -5067);"/>
+                    <Edge cubics="!-3007 -4866(;-3007,-4822 -3043,-4786 -3087,-4786q-3007 -4866Q-3007 -4833q-3030 -4809Q-3054 -4786q-3087 -4786);"/>
+                    <Edge cubics="!-3284 -5147(;-3284,-5147 -3087,-5147 -3087,-5147q-3284 -5147 -3087 -5147);"/>
+                    <Edge cubics="!-3087 -4786(;-3087,-4786 -3284,-4786 -3284,-4786q-3087 -4786 -3284 -4786);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

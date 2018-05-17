@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/hint/No" itemID="5ab143ad-0000013a" symbolType="graphic" lastModified="1521566853">
+  <timeline>
+    <DOMTimeline name="No">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#5/hint/hint border" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="69.7" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="21.1" height="18.6" autoExpand="true" antiAliasSharpness="184" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="62.45" ty="0.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>No</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" lineHeight="18.6" size="16" face="DroidSans" fillColor="#CBCBCB"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

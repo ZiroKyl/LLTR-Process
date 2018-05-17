@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#4/avMed/&amp;#124.&amp;#124" itemID="5aa10f20-00000057" symbolType="graphic" lastModified="1520683161">
+  <timeline>
+    <DOMTimeline name="&amp;#124.&amp;#124">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-256.5" ty="-1711.95"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5390 34239|5390 34459"/>
+                    <Edge cubics="!5390 34239(;5390,34239 5390,34459 5390,34459q5390 34239 5390 34459);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-269.5" ty="-1739.95"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5390 34799|5390 35019"/>
+                    <Edge cubics="!5390 34799(;5390,34799 5390,35019 5390,35019q5390 34799 5390 35019);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="6.45" ty="11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

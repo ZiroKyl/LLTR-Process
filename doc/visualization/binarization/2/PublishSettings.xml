@@ -1,0 +1,103 @@
+<flash_profiles>
+<flash_profile version="1.0" name="Default" current="true">
+  <PublishFormatProperties enabled="true">
+    <defaultNames>1</defaultNames>
+    <flash>0</flash>
+    <projectorWin>0</projectorWin>
+    <projectorMac>0</projectorMac>
+    <html>0</html>
+    <gif>1</gif>
+    <jpeg>0</jpeg>
+    <png>0</png>
+    <swc>0</swc>
+    <oam>0</oam>
+    <flashDefaultName>1</flashDefaultName>
+    <projectorWinDefaultName>1</projectorWinDefaultName>
+    <projectorMacDefaultName>1</projectorMacDefaultName>
+    <htmlDefaultName>1</htmlDefaultName>
+    <gifDefaultName>1</gifDefaultName>
+    <jpegDefaultName>1</jpegDefaultName>
+    <pngDefaultName>1</pngDefaultName>
+    <swcDefaultName>1</swcDefaultName>
+    <oamDefaultName>1</oamDefaultName>
+    <flashFileName>LLTR-a2-binarization-2.swf</flashFileName>
+    <projectorWinFileName>LLTR-a2-binarization-2.exe</projectorWinFileName>
+    <projectorMacFileName>LLTR-a2-binarization-2.app</projectorMacFileName>
+    <htmlFileName>LLTR-a2-binarization-2.html</htmlFileName>
+    <gifFileName>LLTR-a2-binarization-2.gif</gifFileName>
+    <jpegFileName>LLTR-a2-binarization-2.jpg</jpegFileName>
+    <pngFileName>LLTR-a2-binarization-2.png</pngFileName>
+    <swcFileName>LLTR-a2-binarization-2.swc</swcFileName>
+    <oamFileName>LLTR-a2-binarization-2.oam</oamFileName>
+    <publishFormat id="3E6AA359-3A3C-4827-B709-9977BDDDACCB">0</publishFormat>
+    <publishFormat id="BBC1F406-65F2-4219-9304-FA48C7549E44">0</publishFormat>
+    <publishFormat id="BBC1F806-66F2-4339-9306-FA48C7549E59">0</publishFormat>
+    <publishFormat id="BBC2F906-78F3-4239-9305-FA48C8549E59">0</publishFormat>
+  </PublishFormatProperties>
+  <PublishFlashProperties enabled="true">
+    <TopDown></TopDown>
+    <FireFox></FireFox>
+    <Report>0</Report>
+    <Protect>0</Protect>
+    <OmitTraceActions>0</OmitTraceActions>
+    <Quality>80</Quality>
+    <DeblockingFilter>0</DeblockingFilter>
+    <StreamFormat>0</StreamFormat>
+    <StreamCompress>7</StreamCompress>
+    <EventFormat>0</EventFormat>
+    <EventCompress>7</EventCompress>
+    <OverrideSounds>0</OverrideSounds>
+    <Version>37</Version>
+    <ExternalPlayer>FlashPlayer26.0</ExternalPlayer>
+    <ActionScriptVersion>3</ActionScriptVersion>
+    <PackageExportFrame>1</PackageExportFrame>
+    <PackagePaths></PackagePaths>
+    <AS3PackagePaths>.</AS3PackagePaths>
+    <AS3ConfigConst>CONFIG::FLASH_AUTHORING=&quot;true&quot;;</AS3ConfigConst>
+    <DebuggingPermitted>0</DebuggingPermitted>
+    <DebuggingPassword></DebuggingPassword>
+    <CompressMovie>1</CompressMovie>
+    <CompressionType>0</CompressionType>
+    <InvisibleLayer>1</InvisibleLayer>
+    <DeviceSound>0</DeviceSound>
+    <StreamUse8kSampleRate>0</StreamUse8kSampleRate>
+    <EventUse8kSampleRate>0</EventUse8kSampleRate>
+    <UseNetwork>0</UseNetwork>
+    <DocumentClass></DocumentClass>
+    <AS3Strict>2</AS3Strict>
+    <AS3Coach>4</AS3Coach>
+    <AS3AutoDeclare>4096</AS3AutoDeclare>
+    <AS3Dialect>AS3</AS3Dialect>
+    <AS3ExportFrame>1</AS3ExportFrame>
+    <AS3Optimize>1</AS3Optimize>
+    <ExportSwc>0</ExportSwc>
+    <ScriptStuckDelay>15</ScriptStuckDelay>
+    <IncludeXMP>1</IncludeXMP>
+    <HardwareAcceleration>2</HardwareAcceleration>
+    <AS3Flags>4102</AS3Flags>
+    <DefaultLibraryLinkage>rsl</DefaultLibraryLinkage>
+    <RSLPreloaderMethod>wrap</RSLPreloaderMethod>
+    <RSLPreloaderSWF>$(AppConfig)/ActionScript 3.0/rsls/loader_animation.swf</RSLPreloaderSWF>
+    <LibraryPath>
+      <library-path-entry>
+        <swc-path>$(AppConfig)/ActionScript 3.0/libs</swc-path>
+        <linkage>merge</linkage>
+      </library-path-entry>
+    </LibraryPath>
+    <LibraryVersions>
+    </LibraryVersions>
+    <EnableTelemetry>0</EnableTelemetry>
+    <TelemetryPassword></TelemetryPassword>
+  </PublishFlashProperties>
+  <PublishGifProperties enabled="true">
+    <Width>676</Width>
+    <Height>1042</Height>
+    <Animated>1</Animated>
+    <MatchMovieDim>1</MatchMovieDim>
+    <Loop>1</Loop>
+    <LoopCount>0</LoopCount>
+    <Smooth>1</Smooth>
+    <MaxColors>255</MaxColors>
+  </PublishGifProperties>
+</flash_profile>
+</flash_profiles>

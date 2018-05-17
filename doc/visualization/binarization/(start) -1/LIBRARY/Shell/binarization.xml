@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shell/binarization" itemID="5ae1d203-0000011d" symbolType="graphic" lastModified="1524748804">
+  <timeline>
+    <DOMTimeline name="binarization">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" left="25.3" width="93.4" height="17.25" autoExpand="true" antiAliasSharpness="-164" antiAliasThickness="-144" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-23.3" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Binarization </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.2" lineSpacing="0" lineHeight="17.25" size="14.8" bitmapSize="296" face="DroidSans-Bold" fillColor="#FAD569"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

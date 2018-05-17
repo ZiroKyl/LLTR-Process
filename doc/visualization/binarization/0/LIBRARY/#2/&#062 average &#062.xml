@@ -1,0 +1,135 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#2/&amp;#062 average &amp;#062" itemID="5ab8d518-000000d5" symbolType="graphic" lastModified="1522062616">
+  <timeline>
+    <DOMTimeline name="&amp;#062 average &amp;#062">
+      <layers>
+        <DOMLayer name="Слой_2" color="#9933CC" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-197.4" ty="-1869.85"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CC00FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5390 37410|5629 37650"/>
+                    <Edge cubics="!5390 37410(;5390,37410 5629,37650 5629,37650q5390 37410 5629 37650);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_3" color="#FF800A" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-199.5" ty="-1867.65"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5390 37410|5629 37650"/>
+                    <Edge cubics="!5390 37410(;5390,37410 5629,37650 5629,37650q5390 37410 5629 37650);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_5" color="#CC00FF" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix d="-1" tx="-197.4" ty="1887.55"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CC00FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5390 37410|5629 37650"/>
+                    <Edge cubics="!5390 37410(;5390,37410 5629,37650 5629,37650q5390 37410 5629 37650);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-199.5" ty="-1867.65"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#4285F4"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#4285F4"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3990 37410|5390 37410!5390 37410|5510 37530!5510 37530|5390 37650!5390 37650|3990 37650!3990 37650|4110 37530!4110 37530|3990 37410"/>
+                    <Edge cubics="!3990 37410(;3990,37410 5390,37410 5390,37410q3990 37410 5390 37410);"/>
+                    <Edge cubics="!5390 37410(;5390,37410 5510,37530 5510,37530q5390 37410 5510 37530);"/>
+                    <Edge cubics="!5510 37530(;5510,37530 5390,37650 5390,37650q5510 37530 5390 37650);"/>
+                    <Edge cubics="!5390 37650(;5390,37650 3990,37650 3990,37650q5390 37650 3990 37650);"/>
+                    <Edge cubics="!3990 37650(;3990,37650 4110,37530 4110,37530q3990 37650 4110 37530);"/>
+                    <Edge cubics="!4110 37530(;4110,37530 3990,37410 3990,37410q4110 37530 3990 37410);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="customThicknessSharpness" left="45.15" width="53.7" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-33.9" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>average</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" bold="true" rotation="true" letterSpacing="0.1" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

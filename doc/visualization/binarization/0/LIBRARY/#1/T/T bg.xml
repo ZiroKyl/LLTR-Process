@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#1/T/T bg" itemID="5ab8d2a5-000000c2" symbolType="graphic" lastModified="1522065918">
+  <timeline>
+    <DOMTimeline name="T bg">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-219.95" ty="-1976"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4399 39520|4539 39520!4539 39520|4530 39560!4530 39560|4410 39560!4410 39560|4399 39520"/>
+                    <Edge cubics="!4399 39520(;4399,39520 4539,39520 4539,39520q4399 39520 4539 39520);"/>
+                    <Edge cubics="!4539 39520(;4539,39520 4530,39560 4530,39560q4539 39520 4530 39560);"/>
+                    <Edge cubics="!4530 39560(;4530,39560 4410,39560 4410,39560q4530 39560 4410 39560);"/>
+                    <Edge cubics="!4410 39560(;4410,39560 4399,39520 4399,39520q4410 39560 4399 39520);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

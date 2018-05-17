@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="&amp;#124heap 3" itemID="5af055ff-00000037" symbolType="graphic" lastModified="1525700095">
+  <timeline>
+    <DOMTimeline name="&amp;#124heap 3">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-230.95" ty="-66.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="15.95" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#DEE1E4"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!4319 249|4319 724!4319 724|4619 934!4619 934|4619 1330"/>
+                    <Edge cubics="!4319 249(;4319,249 4319,724 4319,724q4319 249 4319 724);"/>
+                    <Edge cubics="!4319 724(;4319,724 4619,934 4619,934q4319 724 4619 934);"/>
+                    <Edge cubics="!4619 934(;4619,934 4619,1330 4619,1330q4619 934 4619 1330);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

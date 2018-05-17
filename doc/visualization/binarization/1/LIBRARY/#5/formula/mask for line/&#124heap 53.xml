@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/formula/mask for line/&amp;#124heap 53" itemID="5aae4fdd-00000077" symbolType="graphic" lastModified="1522069046">
+  <timeline>
+    <DOMTimeline name="&amp;#124heap 53">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-138.35" ty="614.4"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2887 -12288[2887 -12238 2852 -12203!2852 -12203[2817 -12168 2767 -12168!2767 -12168[2717 -12168 2682 -12203!2682 -12203[2647 -12238 2647 -12288!2647 -12288[2647 -12338 2682 -12373!2682 -12373[2717 -12408 2767 -12408!2767 -12408[2817
+ -12408 2852 -12373!2852 -12373[2887 -12338 2887 -12288"/>
+                    <Edge cubics="!2647 -12288(;2647,-12321 2659,-12349 2682,-12373q2647 -12288Q2647 -12338q2682 -12373);"/>
+                    <Edge cubics="!2682 -12373(;2706,-12397 2734,-12408 2767,-12408q2682 -12373Q2717 -12408q2767 -12408);"/>
+                    <Edge cubics="!2767 -12408(;2800,-12408 2828,-12397 2852,-12373q2767 -12408Q2817 -12408q2852 -12373);"/>
+                    <Edge cubics="!2852 -12373(;2876,-12349 2887,-12321 2887,-12288q2852 -12373Q2887 -12338q2887 -12288);"/>
+                    <Edge cubics="!2852 -12203(;2828,-12179 2800,-12168 2767,-12168q2852 -12203Q2817 -12168q2767 -12168);"/>
+                    <Edge cubics="!2767 -12168(;2734,-12168 2706,-12179 2682,-12203q2767 -12168Q2717 -12168q2682 -12203);"/>
+                    <Edge cubics="!2887 -12288(;2887,-12255 2876,-12227 2852,-12203q2887 -12288Q2887 -12238q2852 -12203);"/>
+                    <Edge cubics="!2682 -12203(;2659,-12227 2647,-12255 2647,-12288q2682 -12203Q2647 -12238q2647 -12288);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

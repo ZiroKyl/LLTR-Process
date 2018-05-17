@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#2/border for one num" itemID="5ab8e290-000000d6" symbolType="graphic" lastModified="1522066099">
+  <timeline>
+    <DOMTimeline name="border for one num">
+      <layers>
+        <DOMLayer name="300" color="#FF800A" current="true" isSelected="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/`num/``299" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="1.25" ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.8" y="8.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="164" color="#9933CC" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/`num/``163" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.5" ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="8.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-208.5" ty="-1901.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4250 38030/4709 38030!4709 38030[4742 38030 4766 38053!4766 38053[4789 38076 4789 38110!4789 38110/4789 38310!4789 38310[4789 38343 4766 38367!4766 38367[4742 38390 4709 38390!4709 38390/4250 38390!4250 38390[4216 38390 4193 38367!4193
+ 38367[4170 38343 4170 38310!4170 38310|4170 38110!4170 38110[4170 38076 4193 38053!4193 38053[4216 38030 4250 38030"/>
+                    <Edge cubics="!4250 38030(;4250,38030 4709,38030 4709,38030q4250 38030 4709 38030);"/>
+                    <Edge cubics="!4709 38030(;4753,38030 4789,38065 4789,38110q4709 38030Q4742 38030q4766 38053Q4789 38076q4789 38110);"/>
+                    <Edge cubics="!4789 38110(;4789,38110 4789,38310 4789,38310q4789 38110 4789 38310);"/>
+                    <Edge cubics="!4789 38310(;4789,38354 4753,38390 4709,38390q4789 38310Q4789 38343q4766 38367Q4742 38390q4709 38390);"/>
+                    <Edge cubics="!4709 38390(;4709,38390 4250,38390 4250,38390q4709 38390 4250 38390);"/>
+                    <Edge cubics="!4250 38390(;4205,38390 4170,38354 4170,38310q4250 38390Q4216 38390q4193 38367Q4170 38343q4170 38310);"/>
+                    <Edge cubics="!4170 38310(;4170,38310 4170,38110 4170,38110q4170 38310 4170 38110);"/>
+                    <Edge cubics="!4170 38110(;4170,38065 4205,38030 4250,38030q4170 38110Q4170 38076q4193 38053Q4216 38030q4250 38030);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

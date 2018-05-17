@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#4/backlight" itemID="5ab8e60d-000000f0" scaleGridLeft="-329.8" scaleGridRight="-5" scaleGridTop="5" scaleGridBottom="15" lastModified="1522066957">
+  <timeline>
+    <DOMTimeline name="backlight">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-365.05"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#FAD569"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!700 0/7212 0!7212 0[7249 0 7275 26!7275 26[7301 52 7301 88!7301 88|7301 311!7301 311[7301 348 7275 374!7275 374[7249 400 7212 400!7212 400/700 400"/>
+                    <Edge cubics="!700 0(;700,0 7212,0 7212,0q700 0 7212 0);"/>
+                    <Edge cubics="!7212 0(;7261,0 7301,40 7301,88q7212 0Q7249 0q7275 26Q7301 52q7301 88);"/>
+                    <Edge cubics="!7301 88(;7301,88 7301,311 7301,311q7301 88 7301 311);"/>
+                    <Edge cubics="!7301 311(;7301,360 7261,400 7212,400q7301 311Q7301 348q7275 374Q7249 400q7212 400);"/>
+                    <Edge cubics="!7212 400(;7212,400 700,400 700,400q7212 400 700 400);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,208 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/mask for iteration# circle" itemID="5ab8e933-00000114" symbolType="graphic" lastModified="1522067763">
+  <timeline>
+    <DOMTimeline name="mask for iteration# circle" currentFrame="16">
+      <layers>
+        <DOMLayer name="Слой_2" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="#2.3, 0" anchorPointA="#4.6, 0" controlPointB="#2.3, 0" anchorPointB="#4.6, 0"/>
+                    <MorphCurves controlPointA="#4.6, #0.19" anchorPointA="#4.5F, #0.32" controlPointB="#4.6, #1.B4" anchorPointB="#3.3A, #2.F5"/>
+                    <MorphCurves controlPointA="#4.5E, #0.4A" anchorPointA="#4.5C, #0.62" controlPointB="#2.14, #4.36" anchorPointB="#0.62, #4.5C"/>
+                    <MorphCurves controlPointA="#2.2E, #0.31" controlPointB="#0.31, #2.2E"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <morphHintsList>
+                <MorphHint key="0"/>
+                <MorphHint startPoint="#4.6, 0" endPoint="#4.6, 0" key="0"/>
+                <MorphHint startPoint="#4.5C, #0.62" endPoint="#0.62, #4.5C" key="0"/>
+              </morphHintsList>
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="5">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="85">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="3" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="#FFFFFF.CF, #2.2E" anchorPointA="-0.3828125, #4.5C" controlPointB="-2.1796875, #0.31" anchorPointB="-4.359375, #0.62"/>
+                    <MorphCurves controlPointA="#0.8A, #4.71" anchorPointA="#1.65, #4.25" controlPointB="-4.203125, #2.2" anchorPointB="-2.8828125, #3.49"/>
+                    <MorphCurves controlPointA="#1.AF, #4.0C" anchorPointA="#1.F6, #3.E8" controlPointB="#FFFFFD.8F, #3.AC" anchorPointB="-1.953125, #3.EC"/>
+                    <MorphCurves controlPointA="#2.84, #3.A" anchorPointA="#2.F4, #3.3A" controlPointB="-0.9765625, #4.6C" anchorPointB="#0.31, #4.5F"/>
+                    <MorphCurves controlPointA="#3.65, #2.D2" anchorPointA="#3.B9, #2.4A" controlPointB="#1.6, #4.51" anchorPointB="#2.5, #3.B8"/>
+                    <MorphCurves controlPointA="#3.E2, #2.08" anchorPointA="#4.01, #1.C4" controlPointB="#2.C3, #3.6F" anchorPointB="#3.28, #3.05"/>
+                    <MorphCurves controlPointA="#4.6, #0.F" anchorPointA="#4.6, 0" controlPointB="#4.6, 1.75" anchorPointB="#4.6, 0"/>
+                    <MorphCurves controlPointA="#2.3, 0" controlPointB="#2.3, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <morphHintsList>
+                <MorphHint key="0"/>
+                <MorphHint startPoint="#4.6, 0" endPoint="#4.6, 0" key="0"/>
+                <MorphHint startPoint="-0.3828125, #4.5C" endPoint="-4.359375, #0.62" key="0"/>
+              </morphHintsList>
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="95">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="175">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="-2.1796875, #FFFFFF.CF" anchorPointA="-4.359375, -0.3828125" controlPointB="#FFFFFF.CF, -2.1796875" anchorPointB="-0.3828125, -4.359375"/>
+                    <MorphCurves controlPointA="#FFFFFB.89, #0.D7" anchorPointA="-3.9375, #1.E8" controlPointB="-2.1484375, -4.203125" anchorPointB="-3.3125, #FFFFFD.25"/>
+                    <MorphCurves controlPointA="-3.8359375, #2.1D" anchorPointA="-3.7109375, #2.51" controlPointB="#FFFFFC.77, #FFFFFD.67" anchorPointB="-3.7109375, #FFFFFD.AD"/>
+                    <MorphCurves controlPointA="-3.1953125, #3.24" anchorPointA="-2.421875, #3.A6" controlPointB="#FFFFFB.8B, #FFFFFE.D5" anchorPointB="#FFFFFB.A1, #0.42"/>
+                    <MorphCurves controlPointA="#FFFFFD.F9, #3.E8" anchorPointA="-1.5703125, #4.15" controlPointB="-4.328125, #0.F9" anchorPointB="-4.0859375, #1.98"/>
+                    <MorphCurves controlPointA="-0.8984375, #4.57" anchorPointA="-0.21875, #4.6" controlPointB="-3.734375, #2.82" anchorPointB="-2.953125, #3.39"/>
+                    <MorphCurves controlPointA="#0.7D, #4.69" anchorPointA="#1.34, #4.34" controlPointB="#FFFFFD.D7, #3.F3" anchorPointB="#FFFFFE.CD, #4.38"/>
+                    <MorphCurves controlPointA="#1.AA, #4.12" anchorPointA="#2.12, #3.DB" controlPointB="-0.5703125, #4.65" anchorPointB="#0.21, #4.5F"/>
+                    <MorphCurves controlPointA="#2.E7, #3.6B" anchorPointA="#3.7E, #2.A2" controlPointB="#1.8E, #4.55" anchorPointB="#2.A2, 3.5"/>
+                    <MorphCurves controlPointA="#3.A3, #2.71" anchorPointA="#3.C2, #2.3E" controlPointB="#2.E5, #3.4C" anchorPointB="#3.23, #3.0C"/>
+                    <MorphCurves controlPointA="#4.6, #1.3A" anchorPointA="#4.6, 0" controlPointB="#4.6, #1.C6" anchorPointB="#4.6, 0"/>
+                    <MorphCurves controlPointA="#2.3, 0" controlPointB="#2.3, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <morphHintsList>
+                <MorphHint endPoint="#FFFFFF.FF, #0.02" key="0"/>
+                <MorphHint startPoint="#4.6, 0" endPoint="#4.6, 0" key="0"/>
+                <MorphHint startPoint="-4.359375, -0.3828125" endPoint="-0.3828125, -4.359375" key="0"/>
+              </morphHintsList>
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="185">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="265">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="#0.31, -2.1796875" anchorPointA="#0.62, -4.359375" controlPointB="#2.2E, #FFFFFF.CF" anchorPointB="#4.5C, -0.3828125"/>
+                    <MorphCurves controlPointA="-0.9765625, #FFFFFB.85" anchorPointA="#FFFFFD.DD, -3.8203125" controlPointB="#4.34, -2.1484375" anchorPointB="#2.D8, #FFFFFC.AF"/>
+                    <MorphCurves controlPointA="#FFFFFD.B3, -3.7265625" anchorPointA="-2.4609375, -3.6171875" controlPointB="#2.A8, -3.4765625" anchorPointB="#2.76, #FFFFFC.63"/>
+                    <MorphCurves controlPointA="#FFFFFC.91, -2.953125" anchorPointA="#FFFFFC.13, #FFFFFE.0F" controlPointB="#1.3E, -4.46875" anchorPointB="-0.2890625, -4.3671875"/>
+                    <MorphCurves controlPointA="-4.0859375, #FFFFFE.63" anchorPointA="-4.1953125, #FFFFFE.C1" controlPointB="#FFFFFF.39, -4.3359375" anchorPointB="-1.21875, -4.2109375"/>
+                    <MorphCurves controlPointA="-4.4765625, #FFFFFF.B3" anchorPointA="-4.3359375, #0.A" controlPointB="#FFFFFD.9D, -3.8828125" anchorPointB="#FFFFFC.BF, #FFFFFD.15"/>
+                    <MorphCurves controlPointA="#FFFFFB.BF, #1.29" anchorPointA="-4.03125, #1.B1" controlPointB="#FFFFFC.3F, #FFFFFD.A5" anchorPointB="-4.03125, -1.71875"/>
+                    <MorphCurves controlPointA="-3.7265625, #2.6A" anchorPointA="#FFFFFC.C5, #2.F5" controlPointB="#FFFFFB.95, -0.8359375" anchorPointB="#FFFFFB.A1, #0.31"/>
+                    <MorphCurves controlPointA="#FFFFFD.45, #3.81" anchorPointA="#FFFFFD.F7, #3.DF" controlPointB="#FFFFFB.AD, #1.38" anchorPointB="#FFFFFC.21, #2.1"/>
+                    <MorphCurves controlPointA="#FFFFFE.77, #4.23" anchorPointA="-1.015625, #4.44" controlPointB="-3.5390625, #2.AC" anchorPointB="#FFFFFD.03, #3.3"/>
+                    <MorphCurves controlPointA="-0.1015625, #4.7D" anchorPointA="#0.DF, #4.4A" controlPointB="#FFFFFD.F5, #4.13" anchorPointB="#FFFFFF.25, #4.4D"/>
+                    <MorphCurves controlPointA="#1.3D, #4.37" anchorPointA="#1.93, #4.16" controlPointB="-0.3984375, #4.63" anchorPointB="#0.18, #4.6"/>
+                    <MorphCurves controlPointA="#2.A2, #3.AF" anchorPointA="#3.62, #2.C4" controlPointB="#1.A2, #4.57" anchorPointB="#2.C7, #3.6"/>
+                    <MorphCurves controlPointA="#3.7F, #2.A" anchorPointA="#3.99, #2.7B" controlPointB="#2.F4, #3.3A" anchorPointB="#3.1F, #3.0E"/>
+                    <MorphCurves controlPointA="#4.6, #1.6" anchorPointA="#4.6, 0" controlPointB="#4.6, #1.C6" anchorPointB="#4.6, 0"/>
+                    <MorphCurves controlPointA="#2.3, 0" controlPointB="#2.3, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <morphHintsList>
+                <MorphHint endPoint="0, #FFFFFF.FF" key="0"/>
+                <MorphHint startPoint="#4.6, 0" endPoint="#4.6, 0" key="0"/>
+                <MorphHint startPoint="#0.62, -4.359375" endPoint="#4.5C, -0.3828125" key="0"/>
+              </morphHintsList>
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="275">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58" endAngle="355">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="112" objectHeight="112" x="-56.95" y="-58">
+                  <matrix>
+                    <Matrix tx="0.95" ty="2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

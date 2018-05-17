@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="+/divide/unDivide&amp;#124" itemID="5a92b6a1-00000309" symbolType="graphic" lastModified="1519564907">
+  <timeline>
+    <DOMTimeline name="unDivide&amp;#124">
+      <layers>
+        <DOMLayer name="Слой_3" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/divide/Divide&amp;#124" symbolType="graphic" firstFrame="5" centerPoint3DX="-0.05" centerPoint3DY="10" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/divide/Divide&amp;#124" symbolType="graphic" firstFrame="4" centerPoint3DX="-0.05" centerPoint3DY="10" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/divide/Divide&amp;#124" symbolType="graphic" firstFrame="3" centerPoint3DX="-0.05" centerPoint3DY="10" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/divide/Divide&amp;#124" symbolType="graphic" firstFrame="2" centerPoint3DX="-0.05" centerPoint3DY="10" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/divide/Divide&amp;#124" symbolType="graphic" firstFrame="1" centerPoint3DX="-0.05" centerPoint3DY="10" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/divide/Divide&amp;#124" symbolType="graphic" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

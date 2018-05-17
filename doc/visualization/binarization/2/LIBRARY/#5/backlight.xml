@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/backlight" itemID="5ab8ea86-0000011e" symbolType="graphic" lastModified="1522068102">
+  <timeline>
+    <DOMTimeline name="backlight">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-160.5" ty="-1651.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#FAD569"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3307 33030|6392 33030!6392 33030[6433 33030 6461 33058!6461 33058[6490 33087 6490 33127!6490 33127|6490 33372!6490 33372[6490 33413 6461 33441!6461 33441[6433 33470 6392 33470!6392 33470|3307 33470!3307 33470[3267 33470 3238 33441!3238
+ 33441[3210 33413 3210 33372!3210 33372|3210 33127!3210 33127[3210 33087 3238 33058!3238 33058[3267 33030 3307 33030"/>
+                    <Edge cubics="!3307 33030(;3307,33030 6392,33030 6392,33030q3307 33030 6392 33030);"/>
+                    <Edge cubics="!6392 33030(;6446,33030 6490,33073 6490,33127q6392 33030Q6433 33030q6461 33058Q6490 33087q6490 33127);"/>
+                    <Edge cubics="!6490 33127(;6490,33127 6490,33372 6490,33372q6490 33127 6490 33372);"/>
+                    <Edge cubics="!6490 33372(;6490,33426 6446,33470 6392,33470q6490 33372Q6490 33413q6461 33441Q6433 33470q6392 33470);"/>
+                    <Edge cubics="!6392 33470(;6392,33470 3307,33470 3307,33470q6392 33470 3307 33470);"/>
+                    <Edge cubics="!3307 33470(;3253,33470 3210,33426 3210,33372q3307 33470Q3267 33470q3238 33441Q3210 33413q3210 33372);"/>
+                    <Edge cubics="!3210 33372(;3210,33372 3210,33127 3210,33127q3210 33372 3210 33127);"/>
+                    <Edge cubics="!3210 33127(;3210,33073 3253,33030 3307,33030q3210 33127Q3210 33087q3238 33058Q3267 33030q3307 33030);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

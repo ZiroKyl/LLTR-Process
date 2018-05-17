@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#2/``max-num" itemID="5ab8f3f6-00000164" symbolType="graphic" lastModified="1524133085">
+  <timeline>
+    <DOMTimeline name="``max-num">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="253.75" centerPoint3DY="8.05" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="240"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.7" y="16.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="223.8" centerPoint3DY="8.2" loop="single frame">
+                  <matrix>
+                    <Matrix tx="210"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.3" y="16.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="193.8" centerPoint3DY="8.2" loop="single frame">
+                  <matrix>
+                    <Matrix tx="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.3" y="16.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``299" symbolType="graphic" centerPoint3DX="163.8" centerPoint3DY="8.2" loop="single frame">
+                  <matrix>
+                    <Matrix tx="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.3" y="16.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="133.8" centerPoint3DY="8.2" loop="single frame">
+                  <matrix>
+                    <Matrix tx="120"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.3" y="16.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="103.8" centerPoint3DY="8.2" loop="single frame">
+                  <matrix>
+                    <Matrix tx="90"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.3" y="16.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``297" symbolType="graphic" centerPoint3DX="73.85" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.35" y="16.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="43.85" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.35" y="16.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``299" symbolType="graphic" centerPoint3DX="13.85" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.35" y="16.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

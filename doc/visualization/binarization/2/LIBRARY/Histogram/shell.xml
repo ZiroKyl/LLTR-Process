@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Histogram/shell" itemID="5ab8cfe7-000000ad" symbolType="graphic" lastModified="1522061287">
+  <timeline>
+    <DOMTimeline name="shell">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-237.5" ty="-1771.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#421E09"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="square" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#FAD569"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4750 38170|4750 35730!4750 35730|8779 35730!8779 35730|8850 35509!8850 35509[8875 35429 8930 35429!8930 35429|10750 35429!10750 35429[10783 35429 10807 35453!10807 35453[10830 35476 10830 35509!10830 35509|10830 38170!10830 38170|4750
+ 38170"/>
+                    <Edge cubics="!4750 38170(;4750,38170 4750,35730 4750,35730q4750 38170 4750 35730);"/>
+                    <Edge cubics="!4750 35730(;4750,35730 8779,35730 8779,35730q4750 35730 8779 35730);"/>
+                    <Edge cubics="!8779 35730(;8779,35730 8850,35509 8850,35509q8779 35730 8850 35509);"/>
+                    <Edge cubics="!8850 35509(;8863,35467 8885,35429 8930,35429q8850 35509Q8875 35429q8930 35429);"/>
+                    <Edge cubics="!8930 35429(;8930,35429 10750,35429 10750,35429q8930 35429 10750 35429);"/>
+                    <Edge cubics="!10750 35429(;10794,35429 10830,35465 10830,35509q10750 35429Q10783 35429q10807 35453Q10830 35476q10830 35509);"/>
+                    <Edge cubics="!10830 38170(;10830,38170 4750,38170 4750,38170q10830 38170 4750 38170);"/>
+                    <Edge cubics="!10830 35509(;10830,35509 10830,38170 10830,38170q10830 35509 10830 38170);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-237.5" ty="-1771.45"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!4779 38140|4779 35760!4779 35760|10799 35760!10799 35760|10799 38140!10799 38140|4779 38140"/>
+                    <Edge cubics="!4779 38140(;4779,38140 4779,35760 4779,35760q4779 38140 4779 35760);"/>
+                    <Edge cubics="!4779 35760(;4779,35760 10799,35760 10799,35760q4779 35760 10799 35760);"/>
+                    <Edge cubics="!10799 35760(;10799,35760 10799,38140 10799,38140q10799 35760 10799 38140);"/>
+                    <Edge cubics="!10799 38140(;10799,38140 4779,38140 4779,38140q10799 38140 4779 38140);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

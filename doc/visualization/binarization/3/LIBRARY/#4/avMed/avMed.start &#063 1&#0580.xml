@@ -1,0 +1,180 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#4/avMed/avMed.start &amp;#063 1&amp;#0580" itemID="5aa67983-00000084" symbolType="graphic" lastModified="1520871240">
+  <timeline>
+    <DOMTimeline name="avMed.start &amp;#063 1&amp;#0580">
+      <layers>
+        <DOMLayer name="&lt; averageMed &gt;" color="#009999" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/&amp;#060 averageMed &amp;#062" selected="true" symbolType="graphic" centerPoint3DX="-49.5" centerPoint3DY="5.4" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-99"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#00FFFF" locked="true" outline="true" useOutlineView="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.9375" d="-6.53781127929688" tx="123.35" ty="-2518.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-184.35" y="-384.8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-3847 -7696|-3527 -7696!-3527 -7696|-3527 -7659!-3527 -7659|-3847 -7659!-3847 -7659|-3847 -7696"/>
+                    <Edge cubics="!-3847 -7696(;-3847,-7696 -3527,-7696 -3527,-7696q-3847 -7696 -3527 -7696);"/>
+                    <Edge cubics="!-3527 -7696(;-3527,-7696 -3527,-7659 -3527,-7659q-3527 -7696 -3527 -7659);"/>
+                    <Edge cubics="!-3527 -7659(;-3527,-7659 -3847,-7659 -3847,-7659q-3527 -7659 -3847 -7659);"/>
+                    <Edge cubics="!-3847 -7659(;-3847,-7659 -3847,-7696 -3847,-7696q-3847 -7659 -3847 -7696);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="|.|" color="#9933CC" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenRotate="none" motionTweenScale="false" useSingleEaseCurve="false" hasCustomEase="true" keyMode="16385">
+              <tweens>
+                <CustomEase target="position">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.5"/>
+                  <Point x="0.666666666666667" y="0.833333333333333"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <CustomEase target="color">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.166666666666667"/>
+                  <Point x="0.666666666666667" y="0.5"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <Ease target="position" intensity="-50"/>
+                <Ease target="color" intensity="50"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/&amp;#124.&amp;#124" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-56" ty="-7.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="5.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/&amp;#124.&amp;#124" symbolType="graphic" centerPoint3DX="-49.5" centerPoint3DY="-8" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-56" ty="-13.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="5.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#FF800A" locked="true" outline="true" useOutlineView="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.9375" d="6.53781127929688" tx="123.35" ty="2530.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-184.35" y="-384.8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-3847 -7696|-3527 -7696!-3527 -7696|-3527 -7659!-3527 -7659|-3847 -7659!-3847 -7659|-3847 -7696"/>
+                    <Edge cubics="!-3847 -7696(;-3847,-7696 -3527,-7696 -3527,-7696q-3847 -7696 -3527 -7696);"/>
+                    <Edge cubics="!-3527 -7696(;-3527,-7696 -3527,-7659 -3527,-7659q-3527 -7696 -3527 -7659);"/>
+                    <Edge cubics="!-3527 -7659(;-3527,-7659 -3847,-7659 -3847,-7659q-3527 -7659 -3847 -7659);"/>
+                    <Edge cubics="!-3847 -7659(;-3847,-7659 -3847,-7696 -3847,-7696q-3847 -7659 -3847 -7696);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="|1|" color="#FF4FFF" parentLayerIndex="3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenRotate="none" motionTweenScale="false" useSingleEaseCurve="false" hasCustomEase="true" keyMode="16385">
+              <tweens>
+                <CustomEase target="position">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.5"/>
+                  <Point x="0.666666666666667" y="0.833333333333333"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <CustomEase target="color">
+                  <Point/>
+                  <Point x="0.333333333333333" y="0.166666666666667"/>
+                  <Point x="0.666666666666667" y="0.5"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+                <Ease target="position" intensity="-50"/>
+                <Ease target="color" intensity="50"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/&amp;#1241&amp;#124" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-56" ty="8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="5.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/&amp;#1241&amp;#124" symbolType="graphic" centerPoint3DX="-49.5" centerPoint3DY="20" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-56" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="5.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

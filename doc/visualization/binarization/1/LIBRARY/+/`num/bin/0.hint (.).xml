@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="+/`num/bin/0.hint (.)" itemID="5aa3c81e-00000129" symbolType="graphic" lastModified="1520683101">
+  <timeline>
+    <DOMTimeline name="0.hint (.)">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-2" ty="-11"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" pixelHinting="true" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!10 210|70 210!70 210|70 150!70 150|10 150!10 150|10 210"/>
+                    <Edge cubics="!10 210(;10,210 70,210 70,210q10 210 70 210);"/>
+                    <Edge cubics="!70 210(;70,210 70,150 70,150q70 210 70 150);"/>
+                    <Edge cubics="!70 150(;70,150 10,150 10,150q70 150 10 150);"/>
+                    <Edge cubics="!10 150(;10,150 10,210 10,210q10 150 10 210);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

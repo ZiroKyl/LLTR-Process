@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#4/avMed/Open L" itemID="5a9bedfd-000001cd" symbolType="graphic" lastModified="1520170748">
+  <timeline>
+    <DOMTimeline name="Open L" currentFrame="1">
+      <layers>
+        <DOMLayer name="Слой_3" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" symbolType="graphic" firstFrame="7" centerPoint3DX="1.9" centerPoint3DY="9.95" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" selected="true" symbolType="graphic" firstFrame="6" centerPoint3DX="1.9" centerPoint3DY="9.95" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" symbolType="graphic" firstFrame="5" centerPoint3DX="1.9" centerPoint3DY="9.95" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" symbolType="graphic" firstFrame="4" centerPoint3DX="1.9" centerPoint3DY="9.95" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" symbolType="graphic" firstFrame="3" centerPoint3DX="1.9" centerPoint3DY="9.95" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" symbolType="graphic" firstFrame="2" centerPoint3DX="1.9" centerPoint3DY="9.95" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" symbolType="graphic" firstFrame="1" centerPoint3DX="1.9" centerPoint3DY="9.95" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#4/avMed/Close L" symbolType="graphic" loop="play once">
+                  <transformationPoint>
+                    <Point x="0.05" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

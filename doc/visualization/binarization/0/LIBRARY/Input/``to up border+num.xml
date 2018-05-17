@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Input/``to up border+num" itemID="5ab8f60a-00000185" symbolType="graphic" lastModified="1522071050">
+  <timeline>
+    <DOMTimeline name="``to up border+num">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="-207.45" ty="-1977.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="389.2" y="1986.5"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4229 39550|11349 39550!11349 39550[11383 39550 11406 39573!11406 39573[11429 39596 11429 39630!11429 39630|11429 39830!11429 39830[11429 39863 11406 39887!11406 39887[11383 39910 11349 39910!11349 39910|4229 39910!4229 39910[4196 39910
+ 4173 39887!4173 39887[4149 39863 4149 39830!4149 39830|4149 39630!4149 39630[4149 39596 4173 39573!4173 39573[4196 39550 4229 39550"/>
+                    <Edge cubics="!4229 39550(;4229,39550 11349,39550 11349,39550q4229 39550 11349 39550);"/>
+                    <Edge cubics="!11349 39550(;11394,39550 11429,39585 11429,39630q11349 39550Q11383 39550q11406 39573Q11429 39596q11429 39630);"/>
+                    <Edge cubics="!11429 39630(;11429,39630 11429,39830 11429,39830q11429 39630 11429 39830);"/>
+                    <Edge cubics="!11429 39830(;11429,39874 11394,39910 11349,39910q11429 39830Q11429 39863q11406 39887Q11383 39910q11349 39910);"/>
+                    <Edge cubics="!11349 39910(;11349,39910 4229,39910 4229,39910q11349 39910 4229 39910);"/>
+                    <Edge cubics="!4229 39910(;4185,39910 4149,39874 4149,39830q4229 39910Q4196 39910q4173 39887Q4149 39863q4149 39830);"/>
+                    <Edge cubics="!4149 39830(;4149,39830 4149,39630 4149,39630q4149 39830 4149 39630);"/>
+                    <Edge cubics="!4149 39630(;4149,39585 4185,39550 4229,39550q4149 39630Q4149 39596q4173 39573Q4196 39550q4229 39550);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText left="-105.5" width="355" height="12.45" autoExpand="true" antiAliasSharpness="-164" antiAliasThickness="-144" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="109.3" ty="3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71.75" y="6.1"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>300 164 300 300 300 300 300 300 300 300 300 300</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" rotation="true" lineSpacing="0" lineHeight="12.45" size="12.45" face="LucidaConsole"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#3/medLow" itemID="5ab8eef0-00000135" symbolType="graphic" lastModified="1522069232">
+  <timeline>
+    <DOMTimeline name="medLow">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" left="48.65" width="46.7" height="12.45" autoExpand="true" antiAliasSharpness="-164" antiAliasThickness="-144" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-46.65" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>medLow</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" bold="true" rotation="true" letterSpacing="0.2" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#4285F4"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

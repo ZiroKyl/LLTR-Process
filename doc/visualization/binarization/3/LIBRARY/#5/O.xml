@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/O" itemID="5ab13204-00000121" symbolType="graphic" lastModified="1521562116">
+  <timeline>
+    <DOMTimeline name="O">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-363" ty="-1651.95"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!7470 33449[7553 33449 7611 33391!7611 33391[7670 33332 7670 33249!7670 33249[7670 33167 7611 33108!7611 33108[7553 33049 7470 33049!7470 33049[7387 33049 7328 33108!7328 33108[7270 33166 7270 33249!7270 33249[7270 33332 7328 33391!7328
+ 33391[7387 33449 7470 33449"/>
+                    <Edge cubics="!7470 33449(;7580,33449 7670,33360 7670,33249q7470 33449Q7553 33449q7611 33391Q7670 33332q7670 33249);"/>
+                    <Edge cubics="!7670 33249(;7670,33139 7580,33049 7470,33049q7670 33249Q7670 33167q7611 33108Q7553 33049q7470 33049);"/>
+                    <Edge cubics="!7470 33049(;7359,33049 7270,33139 7270,33249q7470 33049Q7387 33049q7328 33108Q7270 33166q7270 33249);"/>
+                    <Edge cubics="!7270 33249(;7270,33360 7359,33449 7470,33449q7270 33249Q7270 33332q7328 33391Q7387 33449q7470 33449);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-363" ty="-1651.95"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!7680 33039|7260 33459"/>
+                    <Edge cubics="!7680 33039(;7680,33039 7260,33459 7260,33459q7680 33039 7260 33459);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

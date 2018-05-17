@@ -1,0 +1,84 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#CCCCFF" width="676" height="1042" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" guidesLocked="true" guidesVisible="false" rulerVisible="true" snapAlignHorizontalCenter="true" snapAlignVerticalCenter="true" timelineLabelWidth="149" viewAngle3D="65.2241958465019" vanishingPoint3DX="338" vanishingPoint3DY="521" previewMode="full" nextSceneIdentifier="6" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="A19449AC0F61334BA9ED6545F8433CA3">
+     <folders>
+          <DOMFolderItem name="Input" itemID="5ab8caa6-0000007f" isExpanded="true"/>
+          <DOMFolderItem name="Input/_`array's" itemID="5ab8f61d-00000188" isExpanded="true"/>
+          <DOMFolderItem name="Output" itemID="5ab8eb33-00000125"/>
+          <DOMFolderItem name="Output/{...}" itemID="5af12da2-000005d6"/>
+          <DOMFolderItem name="Shell" itemID="5ab8d3fb-000000cd"/>
+     </folders>
+     <symbols>
+          <Include href="_main_.xml" itemIcon="1" loadImmediate="false" itemID="5a9e8406-0000009e" lastModified="1524670534"/>
+          <Include href="Input/_`array's/``i 0.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f625-0000018a" lastModified="1522071077"/>
+          <Include href="Input/_`array's/``i 1&amp;#0442&amp;#04411&amp;#04412&amp;#04413.xml" itemIcon="1" loadImmediate="false" itemID="5ad9c092-00000272" lastModified="1524220050"/>
+          <Include href="Input/_`array's/``i 3.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f62c-0000018c" lastModified="1522071084"/>
+          <Include href="Input/_`array's/``i 9&amp;#04410.xml" itemIcon="1" loadImmediate="false" itemID="5ad9bfd5-0000013e" lastModified="1524219876"/>
+          <Include href="Input/_`array's/``i 10-131.xml" itemIcon="1" loadImmediate="false" itemID="5ae08d7c-00000245" lastModified="1524667846"/>
+          <Include href="Input/_`array's/``i 131.xml" itemIcon="1" loadImmediate="false" itemID="5addbb26-0000016c" lastModified="1524480823"/>
+          <Include href="Output/border-delimiter.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eb5f-00000127" lastModified="1522068319"/>
+          <Include href="Output/output-previous.xml" itemIcon="1" loadImmediate="false" itemID="5ad31fbf-0000009f" lastModified="1524664484"/>
+          <Include href="Output/{...}/one.xml" itemIcon="1" loadImmediate="false" itemID="5ae08116-0000009b" lastModified="1524662550"/>
+          <Include href="Output/{...}/one.start.xml" itemIcon="1" loadImmediate="false" itemID="5ae0811f-0000009d" lastModified="1524662559"/>
+          <Include href="Shell/header.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d418-000000ce" lastModified="1522062360"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="main">
+               <layers>
+                    <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="15">
+                         <frames>
+                              <DOMFrame index="0" duration="38" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" symbolType="graphic" loop="play once">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.8" y="-209.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+     <SaveCustomEase name="Elast End">
+          <Point/>
+          <Point x="0.2691" y="0.2691"/>
+          <Point x="0.8107" y="1.449"/>
+          <Point x="0.9411" y="0.9658"/>
+          <Point x="0.9512" y="0.9281"/>
+          <Point x="0.9919" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="Elast End 2">
+          <Point/>
+          <Point x="0.2114" y="0.3596"/>
+          <Point x="0.8107" y="1.449"/>
+          <Point x="0.9411" y="0.9658"/>
+          <Point x="0.9512" y="0.9281"/>
+          <Point x="0.9919" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="In Sine Rev">
+          <Point/>
+          <Point y="0.3"/>
+          <Point x="0.9593" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="Out Sine Rev">
+          <Point/>
+          <Point x="0.0569" y="0.0548"/>
+          <Point x="1" y="0.7"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="OutQ">
+          <Point/>
+          <Point x="0.15" y="0.0205"/>
+          <Point x="0.95" y="0.3"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+</DOMDocument>

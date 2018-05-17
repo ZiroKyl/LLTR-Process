@@ -1,0 +1,216 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#CCCCFF" width="676" height="1042" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" guidesLocked="true" guidesVisible="false" rulerVisible="true" snapAlignHorizontalCenter="true" snapAlignVerticalCenter="true" timelineLabelWidth="149" viewAngle3D="65.2241958465019" vanishingPoint3DX="338" vanishingPoint3DY="521" previewMode="full" nextSceneIdentifier="6" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="A19449AC0F61334BA9ED6545F8433CA3">
+     <folders>
+          <DOMFolderItem name="_test" itemID="5a9e8425-0000009f"/>
+          <DOMFolderItem name="#1" itemID="5ab8cdcf-0000009c"/>
+          <DOMFolderItem name="#1/i" itemID="5ab8d1b7-000000ba"/>
+          <DOMFolderItem name="#1/T" itemID="5ab8d28e-000000c1"/>
+          <DOMFolderItem name="#2" itemID="5ab8d4f9-000000d4"/>
+          <DOMFolderItem name="#3" itemID="5ab8e41f-000000e0"/>
+          <DOMFolderItem name="#4" itemID="5ab8e552-000000eb"/>
+          <DOMFolderItem name="#4/`to up" itemID="5ab8f48e-0000016f"/>
+          <DOMFolderItem name="#4/avMed" itemID="5ab8ef51-0000013a"/>
+          <DOMFolderItem name="#5" itemID="5ab8e7a3-000000fc"/>
+          <DOMFolderItem name="#5/formula" itemID="5ab8e7e0-00000105"/>
+          <DOMFolderItem name="#5/formula/mask for line" itemID="5ab8e8d9-00000113"/>
+          <DOMFolderItem name="#5/hint" itemID="5ab8f4e2-00000177"/>
+          <DOMFolderItem name="+" itemID="5ab8f137-00000150"/>
+          <DOMFolderItem name="+/&lt;--&gt;" itemID="5ab8f014-0000013f"/>
+          <DOMFolderItem name="+/&lt;--&gt;/&lt;--&gt;" itemID="5ab8f034-00000144"/>
+          <DOMFolderItem name="+/`num" itemID="5ab8f544-0000017f"/>
+          <DOMFolderItem name="+/`num/bin" itemID="5ab8f0b9-0000014c"/>
+          <DOMFolderItem name="+/divide" itemID="5ab8ee12-0000012f"/>
+          <DOMFolderItem name="End" itemID="5ab8f15e-00000158"/>
+          <DOMFolderItem name="Histogram" itemID="5ab8ff45-00000487"/>
+          <DOMFolderItem name="Input" itemID="5ab8caa6-0000007f"/>
+          <DOMFolderItem name="Input/_`array's" itemID="5ab8f61d-00000188"/>
+          <DOMFolderItem name="Output" itemID="5ab8eb33-00000125"/>
+          <DOMFolderItem name="Shell" itemID="5ab8d3fb-000000cd"/>
+     </folders>
+     <symbols>
+          <Include href="_main_.xml" itemIcon="1" loadImmediate="false" itemID="5a9e8406-0000009e" lastModified="1524563143"/>
+          <Include href="_test/5-test.xml" itemIcon="1" loadImmediate="false" itemID="5ac9fcea-00000138" lastModified="1523625637"/>
+          <Include href="#1/``iteration#.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3ba-0000015d" lastModified="1523623671"/>
+          <Include href="#1/``to up + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3d0-00000160" lastModified="1523529789"/>
+          <Include href="#1/backlight.xml" itemIcon="1" loadImmediate="false" itemID="5ad1ca34-000001b9" lastModified="1523698228"/>
+          <Include href="#1/delimiter.xml" itemIcon="1" loadImmediate="false" itemID="5ad1ca59-000001ba" lastModified="1523698265"/>
+          <Include href="#1/i/i.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d2be-000000c3" lastModified="1522062014"/>
+          <Include href="#1/i/i bg.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d2de-000000c4" lastModified="1522062046"/>
+          <Include href="#1/max.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d151-000000b3" lastModified="1522061649"/>
+          <Include href="#1/min.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d154-000000b5" lastModified="1522061652"/>
+          <Include href="#1/T/T.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d0f6-000000b0" lastModified="1522061558"/>
+          <Include href="#1/T/T bg.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d2a5-000000c2" lastModified="1522065918"/>
+          <Include href="#2/&amp;#062 average &amp;#062.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d518-000000d5" lastModified="1523453151"/>
+          <Include href="#2/``first + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3f2-00000163" lastModified="1523547887"/>
+          <Include href="#2/``max-num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3f6-00000164" lastModified="1523459514"/>
+          <Include href="#2/``min-num.xml" itemIcon="1" loadImmediate="false" itemID="5ace2772-0000081d" lastModified="1523529163"/>
+          <Include href="#2/``to up + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3f9-00000165" lastModified="1523529041"/>
+          <Include href="#2/border for one num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e290-000000d6" lastModified="1522066099"/>
+          <Include href="#2/border for one num.1.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e298-000000d8" lastModified="1522066072"/>
+          <Include href="#3/-&amp;#062&amp;#124&amp;#060-.xml" itemIcon="1" loadImmediate="false" itemID="5a9804ac-00000337" lastModified="1523543893"/>
+          <Include href="#3/border.lr.xml" itemIcon="1" loadImmediate="false" itemID="5acf58ea-0000013a" lastModified="1523538154"/>
+          <Include href="#3/border.middle.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e49e-000000e4" lastModified="1522066590"/>
+          <Include href="#3/mask for num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e505-000000e7" lastModified="1522066693"/>
+          <Include href="#3/medHi.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eef8-00000136" lastModified="1522069240"/>
+          <Include href="#3/medLow.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eef0-00000135" lastModified="1522069232"/>
+          <Include href="#3/&amp;#124heap 33.xml" itemIcon="1" loadImmediate="false" itemID="5a9e83bc-00000095" lastModified="1520337852"/>
+          <Include href="#4/&amp;#060 averageMed &amp;#062.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e599-000000ec" lastModified="1522066841"/>
+          <Include href="#4/``first + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f437-00000166" lastModified="1523551770"/>
+          <Include href="#4/``&amp;#124heap 39.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f453-00000168" lastModified="1523621035"/>
+          <Include href="#4/``&amp;#124heap 40.xml" itemIcon="1" loadImmediate="false" itemID="5ad094dd-00000098" lastModified="1523619037"/>
+          <Include href="#4/`to up/``to up + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f443-00000167" lastModified="1523622707"/>
+          <Include href="#4/`to up/to up border.xml" loadImmediate="false" itemID="5ab8e75d-000000f7" lastModified="1522067293"/>
+          <Include href="#4/arrow.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e6ef-000000f1" lastModified="1522067499"/>
+          <Include href="#4/avMed/avMed &amp;#063 (1) &amp;#058 0.xml" itemIcon="1" loadImmediate="false" itemID="5aa6b20d-000002c4" lastModified="1523611754"/>
+          <Include href="#4/avMed/avMed &amp;#063 1 &amp;#058 (0).xml" itemIcon="1" loadImmediate="false" itemID="5aa6b210-000002c5" lastModified="1523614982"/>
+          <Include href="#4/avMed/avMed.end &amp;#063 1&amp;#058(0).xml" itemIcon="1" loadImmediate="false" itemID="5aa8eb96-000000c4" lastModified="1521023487"/>
+          <Include href="#4/avMed/avMed.start &amp;#063 1&amp;#058(0).xml" itemIcon="1" loadImmediate="false" itemID="5aa67dea-000000a7" lastModified="1523614662"/>
+          <Include href="#4/avMed/avMed.start &amp;#063 1&amp;#0580.xml" itemIcon="1" loadImmediate="false" itemID="5aa67983-00000084" lastModified="1520871240"/>
+          <Include href="#4/avMed/Close L.xml" itemIcon="1" loadImmediate="false" itemID="5a9beeaa-000001d2" lastModified="1520170665"/>
+          <Include href="#4/avMed/Open L.xml" itemIcon="1" loadImmediate="false" itemID="5a9bedfd-000001cd" lastModified="1520170748"/>
+          <Include href="#4/avMed/&amp;#124.&amp;#124.xml" itemIcon="1" loadImmediate="false" itemID="5aa10f20-00000057" lastModified="1520683161"/>
+          <Include href="#4/avMed/&amp;#1241&amp;#124.xml" itemIcon="1" loadImmediate="false" itemID="5aa10f43-0000005c" lastModified="1520682331"/>
+          <Include href="#4/backlight.xml" loadImmediate="false" itemID="5ab8e60d-000000f0" lastModified="1522066957"/>
+          <Include href="#4/border.xml" loadImmediate="false" itemID="5ab8e5f8-000000ef" lastModified="1522066936"/>
+          <Include href="#4/delimiter.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e5c8-000000ee" lastModified="1522066888"/>
+          <Include href="#5/!&amp;#061.xml" itemIcon="1" loadImmediate="false" itemID="5ab124cd-000000e0" lastModified="1521623760"/>
+          <Include href="#5/(......).xml" itemIcon="1" loadImmediate="false" itemID="5ab1335a-00000125" lastModified="1521566988"/>
+          <Include href="#5/&amp;#063.xml" itemIcon="1" loadImmediate="false" itemID="5ab12773-000000ee" lastModified="1521559411"/>
+          <Include href="#5/``border + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f4a9-00000171" lastModified="1523623563"/>
+          <Include href="#5/arrow.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e9b5-00000115" lastModified="1522067893"/>
+          <Include href="#5/backlight.xml" itemIcon="1" loadImmediate="false" itemID="5ab8ea86-0000011e" lastModified="1522068102"/>
+          <Include href="#5/clear bit i.xml" itemIcon="1" loadImmediate="false" itemID="5ab8ea4a-0000011b" lastModified="1522068042"/>
+          <Include href="#5/formula/+.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e850-0000010d" lastModified="1522067536"/>
+          <Include href="#5/formula/+.1.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e85b-0000010e" lastModified="1522067547"/>
+          <Include href="#5/formula/-1.3.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e820-0000010b" lastModified="1522067566"/>
+          <Include href="#5/formula/1.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e7ea-00000106" lastModified="1522067434"/>
+          <Include href="#5/formula/12.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e9e9-00000117" lastModified="1522067945"/>
+          <Include href="#5/formula/i.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e7ee-00000107" lastModified="1522067438"/>
+          <Include href="#5/formula/mask for line/&amp;#124heap 52.xml" itemIcon="1" loadImmediate="false" itemID="5aae4ec0-0000006c" lastModified="1523800527"/>
+          <Include href="#5/formula/mask for line/&amp;#124heap 53.xml" itemIcon="1" loadImmediate="false" itemID="5aae4fdd-00000077" lastModified="1522069046"/>
+          <Include href="#5/formula/name.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e84b-0000010c" lastModified="1522067531"/>
+          <Include href="#5/hint/hint border.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eaa8-0000011f" lastModified="1522068136"/>
+          <Include href="#5/hint/No.xml" itemIcon="1" loadImmediate="false" itemID="5ab143ad-0000013a" lastModified="1521566853"/>
+          <Include href="#5/hint/Yes.xml" itemIcon="1" loadImmediate="false" itemID="5ab144bf-000001ba" lastModified="1521566922"/>
+          <Include href="#5/mask for iteration# circle.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e933-00000114" lastModified="1522067763"/>
+          <Include href="#5/O.xml" itemIcon="1" loadImmediate="false" itemID="5ab13204-00000121" lastModified="1521562116"/>
+          <Include href="#5/or.xml" itemIcon="1" loadImmediate="false" itemID="5ab15aea-0000020a" lastModified="1521573403"/>
+          <Include href="+/&amp;#060--&amp;#062/&amp;#060--&amp;#062/-&amp;#062.xml" itemIcon="1" loadImmediate="false" itemID="5a9964f8-00000355" lastModified="1523278931"/>
+          <Include href="+/&amp;#060--&amp;#062/&amp;#060--&amp;#062/&amp;#060--.xml" itemIcon="1" loadImmediate="false" itemID="5a996502-00000356" lastModified="1520002306"/>
+          <Include href="+/`num/``214.xml" itemIcon="1" loadImmediate="false" itemID="5acc9a8d-0000012d" lastModified="1523358384"/>
+          <Include href="+/`num/``214 histogram.xml" itemIcon="1" loadImmediate="false" itemID="5ad1cb03-000001bc" lastModified="1523698435"/>
+          <Include href="+/`num/``214.anim.xml" itemIcon="1" loadImmediate="false" itemID="5ad07d5f-000001ed" lastModified="1523613023"/>
+          <Include href="+/`num/``300.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f537-0000017b" lastModified="1522070839"/>
+          <Include href="+/`num/``300 histogram.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f53a-0000017c" lastModified="1522070842"/>
+          <Include href="+/`num/``300.anim.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f53d-0000017d" lastModified="1522070845"/>
+          <Include href="+/`num/bin/0.hint (.).xml" itemIcon="1" loadImmediate="false" itemID="5aa3c81e-00000129" lastModified="1520683101"/>
+          <Include href="+/`num/bin/1.hint.xml" itemIcon="1" loadImmediate="false" itemID="5aa3c463-0000004c" lastModified="1520682240"/>
+          <Include href="+/divide/- border.xml" itemIcon="1" loadImmediate="false" itemID="5ab8ee93-00000131" lastModified="1522069139"/>
+          <Include href="+/divide/- border wBG.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eea2-00000133" lastModified="1522069154"/>
+          <Include href="+/divide/- border.1.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eea5-00000134" lastModified="1522069157"/>
+          <Include href="+/divide/Divide.xml" itemIcon="1" loadImmediate="false" itemID="5a8c15f2-00000282" lastModified="1522069077"/>
+          <Include href="+/divide/Divide wBG.xml" itemIcon="1" loadImmediate="false" itemID="5a9bdbfc-0000006f" lastModified="1520168546"/>
+          <Include href="+/divide/Divide&amp;#124.xml" itemIcon="1" loadImmediate="false" itemID="5a92b77c-00000313" lastModified="1519564938"/>
+          <Include href="+/divide/unDivide.xml" itemIcon="1" loadImmediate="false" itemID="5a8e8946-00000271" lastModified="1519564526"/>
+          <Include href="+/divide/unDivide&amp;#124.xml" itemIcon="1" loadImmediate="false" itemID="5a92b6a1-00000309" lastModified="1519564907"/>
+          <Include href="+/freeze line.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d3e5-000000c7" lastModified="1522062309"/>
+          <Include href="+/to up.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d46d-000000cf" lastModified="1523356285"/>
+          <Include href="End/the end mask.xml" itemIcon="1" loadImmediate="false" itemID="5ab500b0-000000c1" lastModified="1521821310"/>
+          <Include href="End/the end ~mask.xml" itemIcon="1" loadImmediate="false" itemID="5ab52022-000000df" lastModified="1521821267"/>
+          <Include href="Histogram/`_histogram-main_.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f5b6-00000181" lastModified="1523800819"/>
+          <Include href="Histogram/average.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d387-000000c6" lastModified="1522062215"/>
+          <Include href="Histogram/averageMed.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e468-000000e1" lastModified="1522066536"/>
+          <Include href="Histogram/histogram in mind.xml" itemIcon="1" loadImmediate="false" itemID="5acb42fe-000000a0" lastModified="1523270398"/>
+          <Include href="Histogram/shell.xml" itemIcon="1" loadImmediate="false" itemID="5ab8cfe7-000000ad" lastModified="1522061287"/>
+          <Include href="Input/_`array's/``i 0.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f625-0000018a" lastModified="1522071077"/>
+          <Include href="Input/_`array's/``i 1&amp;#0442.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f62a-0000018b" lastModified="1522071082"/>
+          <Include href="Input/_`array's/``i 3.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f62c-0000018c" lastModified="1522071084"/>
+          <Include href="Input/_`array's/``i 4&amp;#0445.xml" itemIcon="1" loadImmediate="false" itemID="5aca14c9-00000234" lastModified="1523193033"/>
+          <Include href="Input/``to up border+num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f60a-00000185" lastModified="1523529906"/>
+          <Include href="Input/array w.o. num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8cbed-00000083" lastModified="1522060269"/>
+          <Include href="Input/to up border.xml" itemIcon="1" loadImmediate="false" itemID="5ad1cb92-000001bd" lastModified="1523698578"/>
+          <Include href="Output/border-delimiter.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eb5f-00000127" lastModified="1522068319"/>
+          <Include href="Output/output0.xml" itemIcon="1" loadImmediate="false" itemID="5aca1dc5-00000248" lastModified="1523195333"/>
+          <Include href="Shell/header.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d418-000000ce" lastModified="1522062360"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="main" currentFrame="2447">
+               <layers>
+                    <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="15">
+                         <frames>
+                              <DOMFrame index="0" duration="2448" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" symbolType="graphic" loop="play once">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.8" y="-209.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+          <DOMTimeline name="test">
+               <layers>
+                    <DOMLayer name="1.5" color="#00FFFF" current="true" isSelected="true" autoNamed="false" heightLiteral="15">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_test/5-test" symbolType="graphic" loop="single frame">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-455.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+     <SaveCustomEase name="Elast End">
+          <Point/>
+          <Point x="0.2691" y="0.2691"/>
+          <Point x="0.8107" y="1.449"/>
+          <Point x="0.9411" y="0.9658"/>
+          <Point x="0.9512" y="0.9281"/>
+          <Point x="0.9919" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="Elast End 2">
+          <Point/>
+          <Point x="0.2114" y="0.3596"/>
+          <Point x="0.8107" y="1.449"/>
+          <Point x="0.9411" y="0.9658"/>
+          <Point x="0.9512" y="0.9281"/>
+          <Point x="0.9919" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="In Sine Rev">
+          <Point/>
+          <Point y="0.3"/>
+          <Point x="0.9593" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="Out Sine Rev">
+          <Point/>
+          <Point x="0.0569" y="0.0548"/>
+          <Point x="1" y="0.7"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="OutQ">
+          <Point/>
+          <Point x="0.15" y="0.0205"/>
+          <Point x="0.95" y="0.3"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+</DOMDocument>

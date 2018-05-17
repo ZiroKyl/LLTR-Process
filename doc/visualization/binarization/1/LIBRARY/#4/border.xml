@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#4/border" itemID="5ab8e5f8-000000ef" scaleGridLeft="-358.5" scaleGridRight="-4.4" scaleGridTop="4.4" scaleGridBottom="13.6" lastModified="1522066936">
+  <timeline>
+    <DOMTimeline name="border">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-571.45" ty="-1844.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4250 36890|11349 36890!11349 36890[11383 36890 11406 36913!11406 36913[11429 36936 11429 36970!11429 36970|11429 37170!11429 37170[11429 37203 11406 37227!11406 37227[11383 37250 11349 37250!11349 37250|4250 37250!4250 37250[4216 37250
+ 4193 37227!4193 37227[4170 37203 4170 37170!4170 37170|4170 36970!4170 36970[4170 36936 4193 36913!4193 36913[4216 36890 4250 36890"/>
+                    <Edge cubics="!4250 36890(;4250,36890 11349,36890 11349,36890q4250 36890 11349 36890);"/>
+                    <Edge cubics="!11349 36890(;11394,36890 11429,36925 11429,36970q11349 36890Q11383 36890q11406 36913Q11429 36936q11429 36970);"/>
+                    <Edge cubics="!11429 36970(;11429,36970 11429,37170 11429,37170q11429 36970 11429 37170);"/>
+                    <Edge cubics="!11429 37170(;11429,37214 11394,37250 11349,37250q11429 37170Q11429 37203q11406 37227Q11383 37250q11349 37250);"/>
+                    <Edge cubics="!11349 37250(;11349,37250 4250,37250 4250,37250q11349 37250 4250 37250);"/>
+                    <Edge cubics="!4250 37250(;4205,37250 4170,37214 4170,37170q4250 37250Q4216 37250q4193 37227Q4170 37203q4170 37170);"/>
+                    <Edge cubics="!4170 37170(;4170,37170 4170,36970 4170,36970q4170 37170 4170 36970);"/>
+                    <Edge cubics="!4170 36970(;4170,36925 4205,36890 4250,36890q4170 36970Q4170 36936q4193 36913Q4216 36890q4250 36890);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

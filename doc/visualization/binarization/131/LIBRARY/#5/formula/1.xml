@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/formula/1" itemID="5ab8e7ea-00000106" symbolType="graphic" lastModified="1522067434">
+  <timeline>
+    <DOMTimeline name="1">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMStaticText selected="true" fontRenderingMode="customThicknessSharpness" left="66.45" width="11.1" height="18" autoExpand="true" antiAliasSharpness="10" antiAliasThickness="-122" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-64.45" ty="2"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>1</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" bold="true" rotation="true" lineSpacing="0" lineHeight="18" size="18" face="LucidaConsole"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText selected="true" fontRenderingMode="customThicknessSharpness" left="66.45" width="11.1" height="18" autoExpand="true" antiAliasSharpness="10" antiAliasThickness="-122" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-64.45" ty="2.95"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>1</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" bold="true" rotation="true" lineSpacing="0" lineHeight="18" size="18" face="LucidaConsole"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

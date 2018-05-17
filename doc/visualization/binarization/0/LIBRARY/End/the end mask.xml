@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="End/the end mask" itemID="5ab500b0-000000c1" symbolType="graphic" lastModified="1521821310">
+  <timeline>
+    <DOMTimeline name="the end mask" currentFrame="8">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="8" tweenType="shape" keyMode="17922" easeMethodName="quadOut">
+              <tweens>
+                <Ease target="all" method="quadOut"/>
+              </tweens>
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFC0.2D, 0" startPointB="#FFFFFF.39, #FFFFFF.FF" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="#FFFFC0.2D, #FFFFE5.91" anchorPointA="#FFFFD2.DE, #FFFFD2.DE" controlPointB="#FFFFFF.39, -0.328125" anchorPointB="-0.546875, -0.5546875"/>
+                    <MorphCurves controlPointA="#FFFFE5.91, #FFFFC0.2D" anchorPointA="0, #FFFFC0.2D" controlPointB="-0.3203125, #FFFFFF.37" anchorPointB="#0.01, #FFFFFF.37"/>
+                    <MorphCurves controlPointA="#1A.6F, #FFFFC0.2D" anchorPointA="#2D.2, #FFFFD2.DE" controlPointB="#0.54, #FFFFFF.37" anchorPointB="#0.8F, -0.5546875"/>
+                    <MorphCurves controlPointA="#3F.D3, #FFFFE5.91" anchorPointA="#3F.D3, 0" controlPointB="#0.C9, -0.328125" anchorPointB="#0.C9, #FFFFFF.FF"/>
+                    <MorphCurves controlPointA="#3F.D3, #1A.6F" anchorPointA="#2D.2, #2D.2" controlPointB="#0.C9, #0.52" anchorPointB="#0.8F, #0.8C"/>
+                    <MorphCurves controlPointA="#1A.6F, #3F.D3" anchorPointA="0, #3F.D3" controlPointB="#0.54, #0.C7" anchorPointB="#0.01, #0.C7"/>
+                    <MorphCurves controlPointA="#FFFFE5.91, #3F.D3" anchorPointA="#FFFFD2.DE, #2D.2" controlPointB="-0.3203125, #0.C7" anchorPointB="-0.546875, #0.8C"/>
+                    <MorphCurves controlPointA="#FFFFC0.2D, #1A.6F" anchorPointA="#FFFFC0.2D, 0" controlPointB="#FFFFFF.39, #0.52" anchorPointB="#FFFFFF.39, #FFFFFF.FF"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMOvalObject objectWidth="613.95" objectHeight="613.95" x="-318.95" y="-518.95" endAngle="0">
+                  <matrix>
+                    <Matrix a="2.66107177734375" d="2.66107177734375" tx="31.8" ty="564.15"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="613.95" objectHeight="613.95" x="-318.95" y="-518.95" selected="true" endAngle="0">
+                  <matrix>
+                    <Matrix a="0.0325927734375" d="0.0325164794921875" tx="0.45" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-13.8" y="-210.65"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

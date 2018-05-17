@@ -1,0 +1,145 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/formula/mask for line/&amp;#124heap 52" itemID="5aae4ec0-0000006c" symbolType="graphic" lastModified="1523957497">
+  <timeline>
+    <DOMTimeline name="&amp;#124heap 52">
+      <layers>
+        <DOMLayer color="#00FFFF" outline="true" useOutlineView="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="235.3" ty="609.3"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-4706 -12186/1134 -12186!1134 -12186/1134 -11975"/>
+                    <Edge cubics="!-4706 -12186(;-4706,-12186 1134,-12186 1134,-12186q-4706 -12186 1134 -12186);"/>
+                    <Edge cubics="!1134 -12186(;1134,-12186 1134,-11975 1134,-11975q1134 -12186 1134 -11975);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="r" color="#FF800A" parentLayerIndex="0" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" name='bug: при одновременном "входе в кадр" l и r - r не прорисовывается до первого движения' labelType="comment" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#5/formula/mask for line/&amp;#124heap 53" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="292" ty="9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="10" tweenType="motion" motionTweenRotate="none" motionTweenScale="false" motionTweenSnap="true" keyMode="20481" easeMethodName="quadIn">
+              <tweens>
+                <Ease target="all" method="quadIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="#5/formula/mask for line/&amp;#124heap 53" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="292" ty="9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#5/formula/mask for line/&amp;#124heap 53" symbolType="graphic" loop="single frame">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#9933CC" outline="true" useOutlineView="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix ty="-0.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!0 10/4060 10!4060 10/4060 301"/>
+                    <Edge cubics="!0 10(;0,10 4060,10 4060,10q0 10 4060 10);"/>
+                    <Edge cubics="!4060 10(;4060,10 4060,301 4060,301q4060 10 4060 301);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="l" color="#FF4FFF" parentLayerIndex="2" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#5/formula/mask for line/&amp;#124heap 53" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="203" ty="14.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="10" tweenType="motion" motionTweenRotate="none" motionTweenScale="false" motionTweenSnap="true" keyMode="20481" easeMethodName="quadIn">
+              <tweens>
+                <Ease target="all" method="quadIn"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="#5/formula/mask for line/&amp;#124heap 53" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="203" ty="14.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#5/formula/mask for line/&amp;#124heap 53" symbolType="graphic" loop="single frame">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

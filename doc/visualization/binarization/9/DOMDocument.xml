@@ -1,0 +1,181 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#CCCCFF" width="676" height="1042" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" guidesLocked="true" guidesVisible="false" rulerVisible="true" snapAlignHorizontalCenter="true" snapAlignVerticalCenter="true" timelineLabelWidth="149" viewAngle3D="65.2241958465019" vanishingPoint3DX="338" vanishingPoint3DY="521" previewMode="full" nextSceneIdentifier="7" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="A19449AC0F61334BA9ED6545F8433CA3">
+     <folders>
+          <DOMFolderItem name="_test" itemID="5a9e8425-0000009f"/>
+          <DOMFolderItem name="#1" itemID="5ab8cdcf-0000009c"/>
+          <DOMFolderItem name="#1/i" itemID="5ab8d1b7-000000ba"/>
+          <DOMFolderItem name="#2" itemID="5ab8d4f9-000000d4"/>
+          <DOMFolderItem name="+" itemID="5ab8f137-00000150"/>
+          <DOMFolderItem name="+/`num" itemID="5ab8f544-0000017f" isExpanded="true"/>
+          <DOMFolderItem name="+/divide" itemID="5ab8ee12-0000012f"/>
+          <DOMFolderItem name="End" itemID="5ab8f15e-00000158"/>
+          <DOMFolderItem name="Histogram" itemID="5ab8ff45-00000487"/>
+          <DOMFolderItem name="Input" itemID="5ab8caa6-0000007f"/>
+          <DOMFolderItem name="Input/_`array's" itemID="5ab8f61d-00000188" isExpanded="true"/>
+          <DOMFolderItem name="Output" itemID="5ab8eb33-00000125"/>
+          <DOMFolderItem name="Shell" itemID="5ab8d3fb-000000cd"/>
+     </folders>
+     <symbols>
+          <Include href="_main_.xml" itemIcon="1" loadImmediate="false" itemID="5a9e8406-0000009e" lastModified="1524508069"/>
+          <Include href="_test/2-test.xml" itemIcon="1" loadImmediate="false" itemID="5ad9c460-00000464" lastModified="1524391017"/>
+          <Include href="#1/``to up + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3d0-00000160" lastModified="1524307541"/>
+          <Include href="#1/backlight.xml" itemIcon="1" loadImmediate="false" itemID="5ad1ca34-000001b9" lastModified="1523698228"/>
+          <Include href="#1/delimiter.xml" itemIcon="1" loadImmediate="false" itemID="5ad1ca59-000001ba" lastModified="1523698265"/>
+          <Include href="#1/i/i.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d2be-000000c3" lastModified="1522062014"/>
+          <Include href="#1/i/i bg.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d2de-000000c4" lastModified="1522062046"/>
+          <Include href="#1/max.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d151-000000b3" lastModified="1522061649"/>
+          <Include href="#1/min.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d154-000000b5" lastModified="1522061652"/>
+          <Include href="#2/&amp;#062 average &amp;#062.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d518-000000d5" lastModified="1523453151"/>
+          <Include href="#2/``first + num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3f2-00000163" lastModified="1524408501"/>
+          <Include href="#2/``max-num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f3f6-00000164" lastModified="1524408507"/>
+          <Include href="#2/border for one num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e290-000000d6" lastModified="1524408530"/>
+          <Include href="#2/border for one num.1.xml" itemIcon="1" loadImmediate="false" itemID="5ab8e298-000000d8" lastModified="1522066072"/>
+          <Include href="+/`num/``300.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f537-0000017b" lastModified="1522070839"/>
+          <Include href="+/`num/``300 histogram.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f53a-0000017c" lastModified="1522070842"/>
+          <Include href="+/divide/- border.xml" itemIcon="1" loadImmediate="false" itemID="5ab8ee93-00000131" lastModified="1522069139"/>
+          <Include href="+/divide/- border.1.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eea5-00000134" lastModified="1522069157"/>
+          <Include href="+/divide/Divide.xml" itemIcon="1" loadImmediate="false" itemID="5a8c15f2-00000282" lastModified="1522069077"/>
+          <Include href="+/divide/unDivide.xml" itemIcon="1" loadImmediate="false" itemID="5a8e8946-00000271" lastModified="1519564526"/>
+          <Include href="+/freeze line.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d3e5-000000c7" lastModified="1522062309"/>
+          <Include href="+/to up.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d46d-000000cf" lastModified="1523356285"/>
+          <Include href="End/the end mask.xml" itemIcon="1" loadImmediate="false" itemID="5ab500b0-000000c1" lastModified="1521821310"/>
+          <Include href="End/the end ~mask.xml" itemIcon="1" loadImmediate="false" itemID="5ab52022-000000df" lastModified="1521821267"/>
+          <Include href="Histogram/`_histogram-main_.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f5b6-00000181" lastModified="1524408303"/>
+          <Include href="Histogram/histogram in mind.xml" itemIcon="1" loadImmediate="false" itemID="5acb42fe-000000a0" lastModified="1523270398"/>
+          <Include href="Histogram/shell.xml" itemIcon="1" loadImmediate="false" itemID="5ab8cfe7-000000ad" lastModified="1522061287"/>
+          <Include href="Input/_`array's/``i 0.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f625-0000018a" lastModified="1522071077"/>
+          <Include href="Input/_`array's/``i 1&amp;#0442&amp;#04411&amp;#04412&amp;#04413.xml" itemIcon="1" loadImmediate="false" itemID="5ad9c092-00000272" lastModified="1524220050"/>
+          <Include href="Input/_`array's/``i 3.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f62c-0000018c" lastModified="1522071084"/>
+          <Include href="Input/_`array's/``i 9&amp;#04410.xml" itemIcon="1" loadImmediate="false" itemID="5ad9bfd5-0000013e" lastModified="1524219876"/>
+          <Include href="Input/``to up border+num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8f60a-00000185" lastModified="1524303164"/>
+          <Include href="Input/array w.o. num.xml" itemIcon="1" loadImmediate="false" itemID="5ab8cbed-00000083" lastModified="1522060269"/>
+          <Include href="Input/to up border.xml" itemIcon="1" loadImmediate="false" itemID="5ad1cb92-000001bd" lastModified="1523698578"/>
+          <Include href="Output/border-delimiter.xml" itemIcon="1" loadImmediate="false" itemID="5ab8eb5f-00000127" lastModified="1522068319"/>
+          <Include href="Output/output-previous.xml" itemIcon="1" loadImmediate="false" itemID="5ad31fbf-0000009f" lastModified="1524230801"/>
+          <Include href="Shell/header.xml" itemIcon="1" loadImmediate="false" itemID="5ab8d418-000000ce" lastModified="1522062360"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="main" currentFrame="1005">
+               <layers>
+                    <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="15">
+                         <frames>
+                              <DOMFrame index="0" duration="1006" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" symbolType="graphic" loop="play once">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.8" y="-209.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+          <DOMTimeline name="test">
+               <layers>
+                    <DOMLayer name="9.2" color="#00FFFF" current="true" isSelected="true" autoNamed="false" heightLiteral="15">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_test/2-test" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-497.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+          <DOMTimeline name="create local Red palette">
+               <layers>
+                    <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="15">
+                         <frames>
+                              <DOMFrame index="0" name="пре-кадр для быстрого экспорта в анимированный GIF8" labelType="comment" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" symbolType="graphic" firstFrame="924" centerPoint3DX="338" centerPoint3DY="545.45" loop="play once">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.8" y="-209.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="58" name='на основе этих кадров создается локальная "X" (Error) палитра цветов для GIF' labelType="comment" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" selected="true" symbolType="graphic" firstFrame="925" centerPoint3DX="338" centerPoint3DY="545.45" loop="play once">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.8" y="-209.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="59" name="пост-кадр для быстрого экспорта в анимированный GIF8" labelType="comment" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" symbolType="graphic" firstFrame="983" centerPoint3DX="338" centerPoint3DY="545.45" loop="play once">
+                                             <matrix>
+                                                  <Matrix tx="338.8" ty="1037.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.8" y="-209.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+     <SaveCustomEase name="Elast End">
+          <Point/>
+          <Point x="0.2691" y="0.2691"/>
+          <Point x="0.8107" y="1.449"/>
+          <Point x="0.9411" y="0.9658"/>
+          <Point x="0.9512" y="0.9281"/>
+          <Point x="0.9919" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="Elast End 2">
+          <Point/>
+          <Point x="0.2114" y="0.3596"/>
+          <Point x="0.8107" y="1.449"/>
+          <Point x="0.9411" y="0.9658"/>
+          <Point x="0.9512" y="0.9281"/>
+          <Point x="0.9919" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="In Sine Rev">
+          <Point/>
+          <Point y="0.3"/>
+          <Point x="0.9593" y="0.9623"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="Out Sine Rev">
+          <Point/>
+          <Point x="0.0569" y="0.0548"/>
+          <Point x="1" y="0.7"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+     <SaveCustomEase name="OutQ">
+          <Point/>
+          <Point x="0.15" y="0.0205"/>
+          <Point x="0.95" y="0.3"/>
+          <Point x="1" y="1"/>
+     </SaveCustomEase>
+</DOMDocument>

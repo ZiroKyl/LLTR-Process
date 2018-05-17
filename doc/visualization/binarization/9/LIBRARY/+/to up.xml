@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="+/to up" itemID="5ab8d46d-000000cf" symbolType="graphic" lastModified="1523356285">
+  <timeline>
+    <DOMTimeline name="to up">
+      <layers>
+        <DOMLayer name="Слой_1" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="1.65" ty="-0.3"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C0C0C0"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#C0C0C0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!112 6|7259 6!7259 6[7303 6 7335 37!7335 37[7366 68 7366 112!7366 112|7366 379!7366 379[7366 423 7335 455!7335 455[7303 486 7259 486!7259 486|112 486!112 486[68 486 37 455!37 455[6 423 6 379!6 379|6 112!6 112[6 68 37 37!37 37[68 6 112
+ 6"/>
+                    <Edge cubics="!112 6(;112,6 7259,6 7259,6q112 6 7259 6);"/>
+                    <Edge cubics="!7259 6(;7318,6 7366,53 7366,112q7259 6Q7303 6q7335 37Q7366 68q7366 112);"/>
+                    <Edge cubics="!7366 112(;7366,112 7366,379 7366,379q7366 112 7366 379);"/>
+                    <Edge cubics="!7366 379(;7366,438 7318,486 7259,486q7366 379Q7366 423q7335 455Q7303 486q7259 486);"/>
+                    <Edge cubics="!7259 486(;7259,486 112,486 112,486q7259 486 112 486);"/>
+                    <Edge cubics="!112 486(;53,486 6,438 6,379q112 486Q68 486q37 455Q6 423q6 379);"/>
+                    <Edge cubics="!6 379(;6,379 6,112 6,112q6 379 6 112);"/>
+                    <Edge cubics="!6 112(;6,53 53,6 112,6q6 112Q6 68q37 37Q68 6q112 6);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

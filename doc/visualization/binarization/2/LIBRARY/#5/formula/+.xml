@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#5/formula/+" itemID="5ab8e850-0000010d" symbolType="graphic" lastModified="1522067536">
+  <timeline>
+    <DOMTimeline name="+">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-400.5" ty="-16"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!8131 440|8251 440!8131 320|8131 440!8131 440|8131 560!8010 440|8131 440"/>
+                    <Edge cubics="!8010 440(;8010,440 8131,440 8131,440q8010 440 8131 440);"/>
+                    <Edge cubics="!8131 440(;8131,440 8251,440 8251,440q8131 440 8251 440);"/>
+                    <Edge cubics="!8131 440(;8131,440 8131,560 8131,560p8131 440q8131 560);"/>
+                    <Edge cubics="!8131 320(;8131,320 8131,440 8131,440q8131 320p8131 440);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

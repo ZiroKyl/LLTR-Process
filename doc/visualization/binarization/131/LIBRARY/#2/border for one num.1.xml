@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#2/border for one num.1" itemID="5ab8e298-000000d8" symbolType="graphic" lastModified="1522066072">
+  <timeline>
+    <DOMTimeline name="border for one num.1">
+      <layers>
+        <DOMLayer name="300" color="#FF800A" current="true" isSelected="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/`num/``299" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="0.7" ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.8" y="8.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-208.5" ty="-1901.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4250 38030/4690 38030!4690 38030[4723 38030 4747 38053!4747 38053[4770 38076 4770 38110!4770 38110/4770 38310!4770 38310[4770 38343 4747 38367!4747 38367[4723 38390 4690 38390!4690 38390/4250 38390!4250 38390[4216 38390 4193 38367!4193
+ 38367[4170 38343 4170 38310!4170 38310|4170 38110!4170 38110[4170 38076 4193 38053!4193 38053[4216 38030 4250 38030"/>
+                    <Edge cubics="!4250 38030(;4250,38030 4690,38030 4690,38030q4250 38030 4690 38030);"/>
+                    <Edge cubics="!4690 38030(;4734,38030 4770,38065 4770,38110q4690 38030Q4723 38030q4747 38053Q4770 38076q4770 38110);"/>
+                    <Edge cubics="!4770 38110(;4770,38110 4770,38310 4770,38310q4770 38110 4770 38310);"/>
+                    <Edge cubics="!4770 38310(;4770,38354 4734,38390 4690,38390q4770 38310Q4770 38343q4747 38367Q4723 38390q4690 38390);"/>
+                    <Edge cubics="!4690 38390(;4690,38390 4250,38390 4250,38390q4690 38390 4250 38390);"/>
+                    <Edge cubics="!4250 38390(;4205,38390 4170,38354 4170,38310q4250 38390Q4216 38390q4193 38367Q4170 38343q4170 38310);"/>
+                    <Edge cubics="!4170 38310(;4170,38310 4170,38110 4170,38110q4170 38310 4170 38110);"/>
+                    <Edge cubics="!4170 38110(;4170,38065 4205,38030 4250,38030q4170 38110Q4170 38076q4193 38053Q4216 38030q4250 38030);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

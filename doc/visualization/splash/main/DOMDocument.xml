@@ -1,0 +1,43 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#CCCCFF" width="284" height="164" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="30.0911476897453" vanishingPoint3DX="142" vanishingPoint3DY="82" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="7E9A8600375BB84DBBF0B7C13702A51A">
+     <symbols>
+          <Include href="_main_.xml" itemIcon="1" loadImmediate="false" itemID="5af04aae-00000006" lastModified="1525704483"/>
+          <Include href="&amp;#124heap 3.xml" itemIcon="1" loadImmediate="false" itemID="5af055ff-00000037" lastModified="1525700095"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="main">
+               <layers>
+                    <DOMLayer name="LLTR-a2-splash.ai" color="#00FFFF" current="true" isSelected="true" autoNamed="false" heightLiteral="15">
+                         <frames>
+                              <DOMFrame index="0" duration="120" name="5sec" labelType="comment" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" symbolType="graphic" loop="single frame">
+                                             <matrix>
+                                                  <Matrix tx="10.7" ty="12.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="106.8" y="69.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="120" duration="25" name="x:+0.20; y:+0.50" labelType="comment" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_main_" symbolType="graphic" loop="play once">
+                                             <matrix>
+                                                  <Matrix tx="10.7" ty="12.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="106.8" y="69.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

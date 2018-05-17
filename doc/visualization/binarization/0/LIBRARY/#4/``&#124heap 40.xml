@@ -1,0 +1,468 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#4/``&amp;#124heap 40" itemID="5ab8f457-00000169" symbolType="graphic" lastModified="1522070615">
+  <timeline>
+    <DOMTimeline name="``&amp;#124heap 40">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="-153.4" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="-153.4" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3170 34519|3170 34739"/>
+                    <Edge cubics="!3170 34519(;3170,34519 3170,34739 3170,34739q3170 34519 3170 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="15.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="15.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="14.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="#4/delimiter" symbolType="graphic" centerPoint3DX="61" centerPoint3DY="22" loop="loop">
+                  <matrix>
+                    <Matrix tx="61" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-5.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/1.hint" symbolType="graphic" centerPoint3DX="45.25" centerPoint3DY="22" loop="single frame">
+                  <matrix>
+                    <Matrix tx="45.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-5.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``164" symbolType="graphic" centerPoint3DX="44.45" centerPoint3DY="36.25" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999908447265625" d="0.999908447265625" tx="30.45" ty="28.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.7" y="2.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="75.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="61.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="-92.4" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="76.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="76.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="105.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="91.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="-62.4" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="106.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="106.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="135.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="121.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="-32.4" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="136.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="136.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="165.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="151.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="-2.4" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="166.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="166.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="195.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="181.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="27.6" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="196.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="196.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="225.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="211.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="57.6" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="226.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="226.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="255.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="241.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="87.6" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="256.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="256.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="285.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="271.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="117.6" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="286.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="286.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="315.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="301.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="147.6" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="316.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="316.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``300" symbolType="graphic" centerPoint3DX="345.45" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999954223632813" d="0.999954223632813" tx="331.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.55" y="12.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#7F7F7F"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.967742919921875" tx="177.6" ty="-1709.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3790 34519|3790 34739"/>
+                    <Edge cubics="!3790 34519(;3790,34519 3790,34739 3790,34739q3790 34519 3790 34739);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="+/`num/bin/0.hint (.)" symbolType="graphic" centerPoint3DX="346.25" centerPoint3DY="25.5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="346.25" ty="27.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

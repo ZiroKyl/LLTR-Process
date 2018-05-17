@@ -1,0 +1,443 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#1/``to up + num" itemID="5ab8f3d0-00000160" symbolType="graphic" lastModified="1524494588">
+  <timeline>
+    <DOMTimeline name="``to up + num">
+      <layers>
+        <DOMLayer name="LLTR-a2-binarization.ai" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="сохранить заданный offset для чисел - он подобран, чтобы числа при увеличении (в середине анимации) оставались в центре ячеек" labelType="comment" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="1.65" ty="-0.3"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7F7F7F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#7F7F7F"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!112 6|7259 6!7259 6[7303 6 7335 37!7335 37[7366 68 7366 112!7366 112|7366 379!7366 379[7366 423 7335 455!7335 455[7303 486 7259 486!7259 486|112 486!112 486[68 486 37 455!37 455[6 423 6 379!6 379|6 112!6 112[6 68 37 37!37 37[68 6 112
+ 6"/>
+                    <Edge cubics="!112 6(;112,6 7259,6 7259,6q112 6 7259 6);"/>
+                    <Edge cubics="!7259 6(;7318,6 7366,53 7366,112q7259 6Q7303 6q7335 37Q7366 68q7366 112);"/>
+                    <Edge cubics="!7366 112(;7366,112 7366,379 7366,379q7366 112 7366 379);"/>
+                    <Edge cubics="!7366 379(;7366,438 7318,486 7259,486q7366 379Q7366 423q7335 455Q7303 486q7259 486);"/>
+                    <Edge cubics="!7259 486(;7259,486 112,486 112,486q7259 486 112 486);"/>
+                    <Edge cubics="!112 486(;53,486 6,438 6,379q112 486Q68 486q37 455Q6 423q6 379);"/>
+                    <Edge cubics="!6 379(;6,379 6,112 6,112q6 379 6 112);"/>
+                    <Edge cubics="!6 112(;6,53 53,6 112,6q6 112Q6 68q37 37Q68 6q112 6);"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#FFFFFF"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!145 66|7225 66!7225 66[7259 66 7282 89!7282 89[7305 112 7305 145!7305 145|7305 346!7305 346[7305 379 7282 403!7282 403[7259 426 7225 426!7225 426|145 426!145 426[112 426 89 403!89 403[66 379 66 346!66 346|66 145!66 145[66 112 89 89!89
+ 89[112 66 145 66"/>
+                        <Edge cubics="!145 66(;145,66 7225,66 7225,66q145 66 7225 66);"/>
+                        <Edge cubics="!7225 66(;7270,66 7305,101 7305,145q7225 66Q7259 66q7282 89Q7305 112q7305 145);"/>
+                        <Edge cubics="!7305 145(;7305,145 7305,346 7305,346q7305 145 7305 346);"/>
+                        <Edge cubics="!7305 346(;7305,390 7270,426 7225,426q7305 346Q7305 379q7282 403Q7259 426q7225 426);"/>
+                        <Edge cubics="!7225 426(;7225,426 145,426 145,426q7225 426 145 426);"/>
+                        <Edge cubics="!145 426(;101,426 66,390 66,346q145 426Q112 426q89 403Q66 379q66 346);"/>
+                        <Edge cubics="!66 346(;66,346 66,145 66,145q66 346 66 145);"/>
+                        <Edge cubics="!66 145(;66,101 101,66 145,66q66 145Q66 112q89 89Q112 66q145 66);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!685 135|685 355"/>
+                        <Edge cubics="!685 135(;685,135 685,355 685,355q685 135 685 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!2485 135|2485 355"/>
+                        <Edge cubics="!2485 135(;2485,135 2485,355 2485,355q2485 135 2485 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!1285 135|1285 355"/>
+                        <Edge cubics="!1285 135(;1285,135 1285,355 1285,355q1285 135 1285 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!1885 135|1885 355"/>
+                        <Edge cubics="!1885 135(;1885,135 1885,355 1885,355q1885 135 1885 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!3085 135|3085 355"/>
+                        <Edge cubics="!3085 135(;3085,135 3085,355 3085,355q3085 135 3085 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!3685 135|3685 355"/>
+                        <Edge cubics="!3685 135(;3685,135 3685,355 3685,355q3685 135 3685 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!4285 135|4285 355"/>
+                        <Edge cubics="!4285 135(;4285,135 4285,355 4285,355q4285 135 4285 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!4885 135|4885 355"/>
+                        <Edge cubics="!4885 135(;4885,135 4885,355 4885,355q4885 135 4885 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!5485 135|5485 355"/>
+                        <Edge cubics="!5485 135(;5485,135 5485,355 5485,355q5485 135 5485 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!6085 135|6085 355"/>
+                        <Edge cubics="!6085 135(;6085,135 6085,355 6085,355q6085 135 6085 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="1.65" ty="-0.3"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="0.55" joints="miter" miterLimit="22.92">
+                            <fill>
+                              <SolidColor color="#B1B1B1"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!6685 135|6685 355"/>
+                        <Edge cubics="!6685 135(;6685,135 6685,355 6685,355q6685 135 6685 355);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-51.45" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-21.45" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="8.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="38.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="68.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="98.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="128.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="158.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="188.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="218.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.2" width="23.6" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="248.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>163</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.3" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMStaticText left="60.3" width="23.4" height="12.45" autoExpand="true" antiAliasSharpness="-166" antiAliasThickness="-166" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="278.55" ty="6.8"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>299</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.25" lineSpacing="0" lineHeight="12.45" size="12.45" bitmapSize="249" face="LucidaConsole" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

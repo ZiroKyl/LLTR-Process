@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Output/{...}/one.start" itemID="5ae0811f-0000009d" symbolType="graphic" lastModified="1524662559">
+  <timeline>
+    <DOMTimeline name="one.start" currentFrame="22">
+      <layers>
+        <DOMLayer name="|heap 1" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenRotate="none" motionTweenScale="false" keyMode="16385" easeMethodName="sineOut">
+              <tweens>
+                <Ease target="all" method="sineOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Output/{...}/one" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Output/{...}/one" symbolType="graphic" firstFrame="3" centerPoint3DX="2.5" centerPoint3DY="2.5" loop="loop">
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

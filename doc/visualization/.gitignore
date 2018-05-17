@@ -1,0 +1,18 @@
+###############################################################################
+# http://stackoverflow.com/a/20652768
+# https://git-scm.com/docs/gitignore
+###############################################################################
+
+
+###############################################################################
+# Flash (XFL)
+# https://stackoverflow.com/questions/4082467/xfl-whats-purpose-of-the-bin-symdepend-cache-file
+# https://forums.adobe.com/message/3470075#3470075
+# https://github.com/Earthfiredrake/SWL-FreeHUD/blob/master/.gitignore
+#
+
+SymDepend.cache
+
+#
+###############################################################################
+

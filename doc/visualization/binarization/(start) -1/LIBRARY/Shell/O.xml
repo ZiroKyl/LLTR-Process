@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shell/O" itemID="5ae1d4ae-00000139" symbolType="graphic" lastModified="1524749486">
+  <timeline>
+    <DOMTimeline name="O">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-166.5" ty="-1976.45"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="22.92">
+                        <fill>
+                          <SolidColor color="#CBCBCB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3530 39929[3613 39929 3671 39871!3671 39871[3730 39812 3730 39729!3730 39729[3730 39647 3671 39588!3671 39588[3613 39529 3530 39529!3530 39529[3447 39529 3388 39588!3388 39588[3330 39646 3330 39729!3330 39729[3330 39812 3388 39871!3388
+ 39871[3447 39929 3530 39929"/>
+                    <Edge cubics="!3530 39929(;3640,39929 3730,39840 3730,39729q3530 39929Q3613 39929q3671 39871Q3730 39812q3730 39729);"/>
+                    <Edge cubics="!3730 39729(;3730,39619 3640,39529 3530,39529q3730 39729Q3730 39647q3671 39588Q3613 39529q3530 39529);"/>
+                    <Edge cubics="!3530 39529(;3419,39529 3330,39619 3330,39729q3530 39529Q3447 39529q3388 39588Q3330 39646q3330 39729);"/>
+                    <Edge cubics="!3330 39729(;3330,39840 3419,39929 3530,39929q3330 39729Q3330 39812q3388 39871Q3447 39929q3530 39929);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

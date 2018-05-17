@@ -1,0 +1,89 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#3/mask for num" itemID="5ab8e505-000000e7" symbolType="graphic" lastModified="1522066693">
+  <timeline>
+    <DOMTimeline name="mask for num" currentFrame="1">
+      <layers>
+        <DOMLayer color="#00FFFF" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" tweenType="shape" keyMode="17922" easeMethodName="none">
+              <tweens>
+                <Ease target="all" method="none"/>
+              </tweens>
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-0.09375, -0.4453125" startPointB="#FFFFFE.A5, 0" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="-0.09375, -0.484375" anchorPointA="#FFFFFF.EF, #FFFFFF.7D" controlPointB="#FFFFFE.A5, #FFFFFF.6F" anchorPointB="-0.9609375, -0.9609375"/>
+                    <MorphCurves controlPointA="-0.0390625, -0.5390625" anchorPointA="0, -0.5390625" controlPointB="-0.5625, #FFFFFE.A5" anchorPointB="0, #FFFFFE.A5"/>
+                    <MorphCurves controlPointA="#0.0A, -0.5390625" anchorPointA="#0.11, #FFFFFF.7D" controlPointB="#0.91, #FFFFFE.A5" anchorPointB="#0.F6, -0.9609375"/>
+                    <MorphCurves controlPointA="#0.18, -0.484375" anchorPointA="#0.18, -0.4453125" controlPointB="#1.5C, #FFFFFF.6F" anchorPointB="#1.5C, 0"/>
+                    <MorphCurves controlPointA="#0.18, -0.40625" anchorPointA="#0.11, #FFFFFF.9F" controlPointB="#1.5C, #0.91" anchorPointB="#0.F6, #0.F6"/>
+                    <MorphCurves controlPointA="#0.0A, -0.3515625" anchorPointA="0, -0.3515625" controlPointB="#0.91, #1.5C" anchorPointB="0, #1.5C"/>
+                    <MorphCurves controlPointA="-0.0390625, -0.3515625" anchorPointA="#FFFFFF.EF, #FFFFFF.9F" controlPointB="-0.5625, #1.5C" anchorPointB="-0.9609375, #0.F6"/>
+                    <MorphCurves controlPointA="-0.09375, -0.40625" anchorPointA="-0.09375, -0.4453125" controlPointB="#FFFFFE.A5, #0.91" anchorPointB="#FFFFFE.A5, 0"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="82.75" ty="155.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-165.5" y="-322.8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-3263 -6457[-3263 -6437 -3277 -6423!-3277 -6423[-3291 -6409 -3311 -6409!-3311 -6409[-3331 -6409 -3345 -6423!-3345 -6423[-3359 -6437 -3359 -6457!-3359 -6457[-3359 -6477 -3345 -6491!-3345 -6491[-3331 -6505 -3311 -6505!-3311 -6505[-3291
+ -6505 -3277 -6491!-3277 -6491[-3263 -6477 -3263 -6457"/>
+                    <Edge cubics="!-3263 -6457(;-3263,-6444 -3268,-6432 -3277,-6423q-3263 -6457Q-3263 -6437q-3277 -6423);"/>
+                    <Edge cubics="!-3277 -6423(;-3286,-6414 -3298,-6409 -3311,-6409q-3277 -6423Q-3291 -6409q-3311 -6409);"/>
+                    <Edge cubics="!-3311 -6409(;-3324,-6409 -3336,-6414 -3345,-6423q-3311 -6409Q-3331 -6409q-3345 -6423);"/>
+                    <Edge cubics="!-3345 -6423(;-3354,-6432 -3359,-6444 -3359,-6457q-3345 -6423Q-3359 -6437q-3359 -6457);"/>
+                    <Edge cubics="!-3359 -6457(;-3359,-6470 -3354,-6482 -3345,-6491q-3359 -6457Q-3359 -6477q-3345 -6491);"/>
+                    <Edge cubics="!-3345 -6491(;-3336,-6500 -3324,-6505 -3311,-6505q-3345 -6491Q-3331 -6505q-3311 -6505);"/>
+                    <Edge cubics="!-3311 -6505(;-3298,-6505 -3286,-6500 -3277,-6491q-3311 -6505Q-3291 -6505q-3277 -6491);"/>
+                    <Edge cubics="!-3277 -6491(;-3268,-6482 -3263,-6470 -3263,-6457q-3277 -6491Q-3263 -6477q-3263 -6457);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="7.23971557617188" d="7.23971557617188" tx="1198.55" ty="2337.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-165.55" y="-322.85"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-3263 -6457[-3263 -6437 -3277 -6423!-3277 -6423[-3291 -6409 -3311 -6409!-3311 -6409[-3331 -6409 -3345 -6423!-3345 -6423[-3359 -6437 -3359 -6457!-3359 -6457[-3359 -6477 -3345 -6491!-3345 -6491[-3331 -6505 -3311 -6505!-3311 -6505[-3291
+ -6505 -3277 -6491!-3277 -6491[-3263 -6477 -3263 -6457"/>
+                    <Edge cubics="!-3263 -6457(;-3263,-6444 -3268,-6432 -3277,-6423q-3263 -6457Q-3263 -6437q-3277 -6423);"/>
+                    <Edge cubics="!-3277 -6423(;-3286,-6414 -3298,-6409 -3311,-6409q-3277 -6423Q-3291 -6409q-3311 -6409);"/>
+                    <Edge cubics="!-3311 -6409(;-3324,-6409 -3336,-6414 -3345,-6423q-3311 -6409Q-3331 -6409q-3345 -6423);"/>
+                    <Edge cubics="!-3345 -6423(;-3354,-6432 -3359,-6444 -3359,-6457q-3345 -6423Q-3359 -6437q-3359 -6457);"/>
+                    <Edge cubics="!-3359 -6457(;-3359,-6470 -3354,-6482 -3345,-6491q-3359 -6457Q-3359 -6477q-3345 -6491);"/>
+                    <Edge cubics="!-3345 -6491(;-3336,-6500 -3324,-6505 -3311,-6505q-3345 -6491Q-3331 -6505q-3311 -6505);"/>
+                    <Edge cubics="!-3311 -6505(;-3298,-6505 -3286,-6500 -3277,-6491q-3311 -6505Q-3291 -6505q-3277 -6491);"/>
+                    <Edge cubics="!-3277 -6491(;-3268,-6482 -3263,-6470 -3263,-6457q-3277 -6491Q-3263 -6477q-3263 -6457);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

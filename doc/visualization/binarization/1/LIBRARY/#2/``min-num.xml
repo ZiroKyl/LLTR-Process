@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#2/``min-num" itemID="5ace2772-0000081d" symbolType="graphic" lastModified="1523529163">
+  <timeline>
+    <DOMTimeline name="``min-num">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="+/`num/``214" symbolType="graphic" centerPoint3DX="14.05" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999908447265625" d="0.999908447265625" tx="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.35" y="-1.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``214" symbolType="graphic" centerPoint3DX="44.05" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999908447265625" d="0.999908447265625" tx="30.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.35" y="-1.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="+/`num/``214" symbolType="graphic" centerPoint3DX="74.05" centerPoint3DY="8.1" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.999908447265625" d="0.999908447265625" tx="60.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.35" y="-1.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
