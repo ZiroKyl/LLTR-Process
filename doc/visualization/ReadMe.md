@@ -381,3 +381,8 @@ How-to
   - [Управление изменениями формы с помощью контрольных точек (хинтов)](https://help.adobe.com/flash/9.0_ru/UsingFlash/help.html?content=WSd60f23110762d6b883b18f10cb1fe1af6-7d78.html)
   - [After Effects animation examples](https://github.com/airbnb/lottie-android#view-documentation-faq-help-examples-and-more-at-airbnbiolottie)
   - [Haiku](https://www.haiku.ai/blog/introducing-haiku/)
+  - JSFL - Flash JavaScript File
+    - [Flash JavaScript File (JSFL) - что это?](http://as3coder.blogspot.ru/2009/10/flash-javascript-file-jsfl.html)
+    - [JSFL help](https://help.adobe.com/en_US/flash/cs/extend/WSd6d4f896b3a8801b2d17133e13cb5566c5d-8000.html)
+    - [JSFL selection](https://habr.com/post/137101)
+    - [JSFL swfPanel](https://help.adobe.com/en_US/flash/cs/extend/WS97eaa2ee0671cfc773a319f613cb6b7f50b-8000.html)
